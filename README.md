@@ -9,6 +9,8 @@
 * [股票学习从入门到精通](https://www.bilibili.com/video/av45368597?from=search&seid=5477036655500561534)
 * [职业操盘手培训课程1](https://www.bilibili.com/video/av45038407/?spm_id_from=333.788.videocard.3)
 * [我的交易系統》全集 --- 醍醐灌顶](https://www.bilibili.com/video/av67568968/?spm_id_from=333.788.videocard.1)
+* [股票预测分析](https://www.bilibili.com/video/av41243297/?spm_id_from=333.788.videocard.11)
+* [如何通过深度学习（Deep learning），预测股票的涨跌](https://www.bilibili.com/video/av63716411/?spm_id_from=333.788.videocard.1)
 
 ---
 
