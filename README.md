@@ -37,3 +37,6 @@
 
 * [5000本金融书](http://www.7help.net/40.html)
 * [手把手教你用Python做股票量化分析](https://blog.csdn.net/ndhtou222/article/details/103776103)
+* [股票数据下载-下载股票历史数据](https://segmentfault.com/a/1190000021408612)
+* [Python 从 sina 股票数据接口读取数据，并保存到 MySQL 数据库](https://segmentfault.com/a/1190000013263625)
+* [Python 爬取 baidu 股票市值数据](https://segmentfault.com/a/1190000013263314)
