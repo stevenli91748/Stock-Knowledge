@@ -36,3 +36,4 @@
 # 有用的链接
 
 * [5000本金融书](http://www.7help.net/40.html)
+* [手把手教你用Python做股票量化分析](https://blog.csdn.net/ndhtou222/article/details/103776103)
