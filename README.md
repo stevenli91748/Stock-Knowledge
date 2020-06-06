@@ -34,7 +34,7 @@
 ---
 
 # 有用的链接
-
+* [Python数据分析实战：构建股票量化交易系统](https://juejin.im/book/5c7bcd6b6fb9a049a7128934)
 * [5000本金融书](http://www.7help.net/40.html)
 * [手把手教你用Python做股票量化分析](https://blog.csdn.net/ndhtou222/article/details/103776103)
 * [股票数据下载-下载股票历史数据](https://segmentfault.com/a/1190000021408612)
