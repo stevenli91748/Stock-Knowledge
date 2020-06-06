@@ -40,3 +40,4 @@
 * [股票数据下载-下载股票历史数据](https://segmentfault.com/a/1190000021408612)
 * [Python 从 sina 股票数据接口读取数据，并保存到 MySQL 数据库](https://segmentfault.com/a/1190000013263625)
 * [Python 爬取 baidu 股票市值数据](https://segmentfault.com/a/1190000013263314)
+* [股票数据定向爬虫](https://segmentfault.com/a/1190000010520835)
