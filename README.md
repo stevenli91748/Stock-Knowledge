@@ -11,8 +11,8 @@
 ### 基本分析
 
 ### 技术分析
-[选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)|[买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)|[卖出](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E5%8D%96%E5%87%BA.md)|
----|---|---|
+[选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)|[买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)|[卖出](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E5%8D%96%E5%87%BA.md)|抄底逃顶|撤单|
+---|---|---|---|---|
 
 
 ### 指标
