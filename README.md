@@ -1,5 +1,11 @@
 # Stock-Knowledge--股票基本知识
 
+# 在线书籍
+
+* [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
+
+
+
 **炒股盈利的关键在于两点：看好大势和抓住热点**
 
 * [技术分析](#技术分析)
