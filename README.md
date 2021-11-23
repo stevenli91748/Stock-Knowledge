@@ -1,5 +1,8 @@
 # [Stock-Knowledge--股票基本知识](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E8%82%A1%E7%A5%A8%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86/README.md)
 
+**投资者选择个股，一般熊市应选小盘股和中小盘股，牛市应选大盘股和中大盘股。**
+
+
 # 在线书籍
 
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
