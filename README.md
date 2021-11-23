@@ -12,6 +12,7 @@
 
 ## K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
+* [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 
 ## 趋势
 **证券领域最佳三书**
