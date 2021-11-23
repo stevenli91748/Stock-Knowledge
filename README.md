@@ -4,10 +4,20 @@
 
 
 # 在线书籍
-* [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
+##入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
+
+## 基本面分析类
+* []()
+
+## K线
+* [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
+
+## 趋势
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
 
+## 交易系统类
+* [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 
 **炒股盈利的关键在于两点：看好大势和抓住热点**
 
