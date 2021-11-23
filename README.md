@@ -14,6 +14,10 @@
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 
+## MACD
+* [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+
+
 ## 趋势
 **证券领域最佳三书**
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
