@@ -14,7 +14,10 @@
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 
 ## 趋势
+**证券领域最佳三书**
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
+* [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
+* [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 
 ## 交易系统类
 * [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
