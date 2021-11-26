@@ -18,8 +18,25 @@
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 
+## 均线
+
 ## MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+
+## KDJ
+
+## 筹码
+
+## 波浪理论
+
+## 平均分割
+
+## N字结构
+
+## 高量战法---量价分析
+** 股价上涨下跌的本质是资金流动而资金流动又体现在量价之中，掌握量价分析再辅以情绪便可通晓股市之规律**
+
+## 庄家手法
 
 
 ## 趋势
@@ -28,7 +45,7 @@
 * [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 
-## 交易系统类
+## 交易系统建立
 * [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 
 
