@@ -10,6 +10,9 @@
 ## 基本面分析类
 * []()
 
+## 选股
+* [散户实战选股技巧必读全书](https://weread.qq.com/web/reader/efe32d3059a6edefe739e95)
+
 ## K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
