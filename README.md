@@ -28,6 +28,9 @@
 ## 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
+* [神奇的大均线](https://weread.qq.com/web/reader/98a32000716ce09c98a78f5)
+
+
 ## MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 * [缠论：缠中说缠核心炒股技术](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9)
@@ -43,6 +46,10 @@
 ## 平均分割
 
 ## N字结构
+
+## 涨停板战法
+
+* [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
 
 ## 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
@@ -62,7 +69,7 @@
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 
 ## 交易系统建立
-* [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
+* [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
 
