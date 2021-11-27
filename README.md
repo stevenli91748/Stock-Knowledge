@@ -43,6 +43,7 @@
 ## 筹码
 
 ## 波浪理论
+* [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
 
 ## 平均分割
 
