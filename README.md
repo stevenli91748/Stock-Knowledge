@@ -10,6 +10,9 @@
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
 * [通达信实战](https://weread.qq.com/web/reader/a52320a072012079a52224a)
+
+
+
 ## 基本面分析类
 
 
@@ -49,7 +52,6 @@
 * [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
 * [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
 
-
 ## 趋势
 **证券领域最佳三书**
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
@@ -60,6 +62,12 @@
 ## 交易系统建立
 * [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
+
+## 实战经验
+* [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
+
+
+
 
 ---
 
