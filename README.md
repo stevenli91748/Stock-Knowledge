@@ -29,7 +29,7 @@
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 
 ## KDJ
-* [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/04432ac0717d30d7044c357)
+* [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
 
 
 ## 筹码
