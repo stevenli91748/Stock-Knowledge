@@ -27,7 +27,7 @@
 
 ## 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
-
+* [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
 ## MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 * [缠论：缠中说缠核心炒股技术](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9)
