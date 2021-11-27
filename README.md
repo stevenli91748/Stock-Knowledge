@@ -9,7 +9,7 @@
 
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
-
+* [通达信实战](https://weread.qq.com/web/reader/a52320a072012079a52224a)
 ## 基本面分析类
 
 
