@@ -47,7 +47,8 @@
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
 * [量价: 典型股票盘口分析（实操加强版）](https://weread.qq.com/web/reader/c86321205cab62c860f8b52)
-
+* [从零开始学量价分析：短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/5f33209072040afd5f3980b)
+* 
 ## 庄家手法
 * [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
 * [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
