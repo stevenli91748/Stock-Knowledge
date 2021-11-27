@@ -51,7 +51,7 @@
 
 ## 交易系统建立
 * [海龟交易法则---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
-
+* [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 
 ---
 
