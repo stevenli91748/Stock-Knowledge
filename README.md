@@ -61,6 +61,7 @@
 ## 庄家手法
 * [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
 * [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
+* [庄家克星： 职业操盘手解析坐庄全过程](https://weread.qq.com/web/bookReview/list?bookId=20532930716cde12205e182)
 
 ## 趋势
 **证券领域最佳三书**
