@@ -23,6 +23,7 @@
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 
 ## 均线
+* [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 
 ## MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
