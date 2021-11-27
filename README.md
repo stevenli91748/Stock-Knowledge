@@ -30,6 +30,7 @@
 
 ## MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+* [缠论：缠中说缠核心炒股技术](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9)
 
 ## KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
