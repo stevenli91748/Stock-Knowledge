@@ -49,10 +49,6 @@
 
 ## N字结构
 
-## 涨停板战法
-
-* [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
-
 ## 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
@@ -76,6 +72,8 @@
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
 * [交易心理学](https://weread.qq.com/web/reader/f9b32a607255158ef9bbace)
+* [止损： 如何克服贪婪和恐惧](https://weread.qq.com/web/reader/94732dc0722038b8947e6e8)
+* [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
 
 ## 实战经验
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
