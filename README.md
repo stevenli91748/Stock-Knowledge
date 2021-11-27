@@ -19,6 +19,7 @@
 ## 选股
 * [散户实战选股技巧必读全书](https://weread.qq.com/web/reader/efe32d3059a6edefe739e95)
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
+* [看盘方法与技巧大全](https://weread.qq.com/web/reader/eb9325105c7b7ceb946d2dc)
 
 ## K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
