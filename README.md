@@ -72,6 +72,7 @@
 * [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
+* [交易心理学](https://weread.qq.com/web/reader/f9b32a607255158ef9bbace)
 
 ## 实战经验
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
