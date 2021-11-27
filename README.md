@@ -46,6 +46,8 @@
 * [量价: 典型股票盘口分析（实操加强版）](https://weread.qq.com/web/reader/c86321205cab62c860f8b52)
 
 ## 庄家手法
+* [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
+* [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
 
 
 ## 趋势
