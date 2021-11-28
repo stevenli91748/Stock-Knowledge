@@ -25,7 +25,7 @@
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
-
+* [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
 ## 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
