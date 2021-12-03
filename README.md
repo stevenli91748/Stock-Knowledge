@@ -169,6 +169,7 @@ K线图|趋势|量价|均线|价格形态|[主力](https://github.com/stevenli91
 
 # 有用的链接
 * [为什么股票书看得越多，炒股亏得越历害](https://www.zhihu.com/question/399029552/answer/1346181098)
+* [美股投资者必备的网站和工具（建议收藏）](https://zhuanlan.zhihu.com/p/301351203)
 * [美股入门必备文：深入了解美国股市的基础知识和交易制度](https://zhuanlan.zhihu.com/p/25221399)
 * [美股日内交易（T+0）坐庄手法是什么？](https://www.zhihu.com/question/295827379/answer/1345677236)
 * [股市真正厉害的人：10元买1000股，跌到8元卖出500股，7.5元补500股](https://zhuanlan.zhihu.com/p/138097961)
