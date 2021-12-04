@@ -49,6 +49,7 @@
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 * [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
+* [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
 
 ### 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
@@ -62,6 +63,8 @@
 ### KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
 
+### 追踪主力
+* [追踪主力: 散户操盘实战图解](https://weread.qq.com/web/reader/fa032c00716cde09fa043bc)
 
 ### 筹码
 
