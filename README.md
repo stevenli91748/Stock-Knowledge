@@ -36,58 +36,61 @@
 ## 基本面分析类
 
 
-## 选股
+##技术分析
+* [股票技术分析大全（超值白金版）](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1)
+
+### 选股
 * [散户实战选股技巧必读全书](https://weread.qq.com/web/reader/efe32d3059a6edefe739e95)
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
 * [看盘方法与技巧大全](https://weread.qq.com/web/reader/eb9325105c7b7ceb946d2dc)
 
-## K线
+### K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 * [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
-## 均线
+
+### 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
 * [神奇的大均线](https://weread.qq.com/web/reader/98a32000716ce09c98a78f5)
 
-
-## MACD
+### MACD
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 * [缠论：缠中说缠核心炒股技术](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9)
 
-## KDJ
+### KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
 
 
-## 筹码
+### 筹码
 
-## 波浪理论
+### 波浪理论
 * [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
 
-## 平均分割
+### 平均分割
 
-## N字结构
+### N字结构
 
-## 高量战法---量价分析
+### 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
 * [量价: 典型股票盘口分析（实操加强版）](https://weread.qq.com/web/reader/c86321205cab62c860f8b52)
 * [从零开始学量价分析：短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/5f33209072040afd5f3980b)
-* 
-## 庄家手法
+ 
+### 庄家手法
 * [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
 * [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
 * [庄家克星： 职业操盘手解析坐庄全过程](https://weread.qq.com/web/bookReview/list?bookId=20532930716cde12205e182)
 
-## 趋势
+### 趋势
 **证券领域最佳三书**
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
 * [以趋势交易为生](https://weread.qq.com/web/reader/6d1320b0720528226d155e6)
 * [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 
-## 交易系统建立
+### 交易系统建立
 * [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
@@ -96,7 +99,7 @@
 * [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
 * [交易之道： 傅海棠观点集---从5万起步到1.2亿](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
 
-## 实战经验
+### 实战经验
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
 
 
