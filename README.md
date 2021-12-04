@@ -94,6 +94,7 @@
 * [交易心理学](https://weread.qq.com/web/reader/f9b32a607255158ef9bbace)
 * [止损： 如何克服贪婪和恐惧](https://weread.qq.com/web/reader/94732dc0722038b8947e6e8)
 * [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
+* [交易之道： 傅海棠观点集---从5万起步到1.2亿](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
 
 ## 实战经验
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
