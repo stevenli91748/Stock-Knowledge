@@ -44,6 +44,10 @@
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
 * [看盘方法与技巧大全](https://weread.qq.com/web/reader/eb9325105c7b7ceb946d2dc)
 * [新手选股图解99招](https://weread.qq.com/web/reader/393328c05b28583937f8f73)
+* [用11个关健财务指标看透A股](https://weread.qq.com/web/reader/86a32400715a414e86a774b)
+
+
+
 ### K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
