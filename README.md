@@ -56,6 +56,7 @@
 * [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
 * [从零开始学股票K线图：入门实战技巧](https://weread.qq.com/web/reader/6b732c507159af626b76f3a)
 * [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
+* [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
 
 ### 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
