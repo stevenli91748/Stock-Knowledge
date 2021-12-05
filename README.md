@@ -111,7 +111,7 @@
 ### 实战经验
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
 * [五线开花： 股票最佳买卖点](https://weread.qq.com/web/reader/5ba32ef05ca1175ba3f4e22)
-
+* [短线操盘实战技法](https://weread.qq.com/web/reader/9ed3283071df673e9edf25ckc81322c012c81e728d9d180)
 
 
 
