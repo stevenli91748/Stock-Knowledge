@@ -34,7 +34,7 @@
 
 
 ## 基本面分析类
-
+* [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
 
 ## 技术分析
 * [股票技术分析大全（超值白金版）](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1)
