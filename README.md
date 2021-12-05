@@ -59,6 +59,7 @@
 * [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
 * [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
 * [股市抄底技术图谱大全](https://weread.qq.com/web/reader/bb232400726e3ad1bb209a4)
+* [股市逃顶技术图谱大全](https://weread.qq.com/web/reader/8f532bb0726e3ad38f51d65)
 ### 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
