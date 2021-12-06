@@ -78,6 +78,9 @@
 ### KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
 
+### RSI
+* [RSI](https://www.youtube.com/watch?v=rjkOjujLPvQ)
+
 ### 追踪主力
 * [追踪主力: 散户操盘实战图解](https://weread.qq.com/web/reader/fa032c00716cde09fa043bc)
 
