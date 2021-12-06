@@ -8,23 +8,24 @@
 
 * K线理论---学好了这3种理论，就能长持短炒两相宜了, 将K线理论、缺口理论和形态理论结合在一起，才能真正识别K线的盘面语言。成功的交易应当在把握长期趋势的同时寻找短线的买卖点，这要求我们3种理论都不偏废
   * [1. K线理论---分析单根K线和几根K线组合的“酒田战法”已经发展成为K线图分析的主流—K线理论。该理论主要是识别K线的信号意义，以供投资者进行短线交易决策, K线理论大致可以预测数天的未来趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
+    * K线类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型
+      * [多方占优型](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
+      * [多方受阻型](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
+      * [多空平衡型](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc1632f5021fc16a5320f3dc)
+      * [空方占优型](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5732aa0226a5771bce9dc4)
+      * [空方受阻型](https://weread.qq.com/web/reader/2a1327405933b42a14af962k283328802332838023a7529)
   * [2. 缺口理论---该理论主要用于确认趋势方向，寻找阻力支撑，以供投资者进行中短线交易决策,缺口理论根据缺口性质可以预测或短或长的趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
+    * [缺口理论详解](https://weread.qq.com/web/reader/2a1327405933b42a14af962k0723244023c072b030ba601) 
   * [3. 形态理论---·技术图形分析开始更多地建立在K线的基础之上，发展成为当代的形态理论，长期以来总结的各种经典图形已广泛地为人所接受，主要用于确认趋势的转变，以供投资者进行中长线的交易决策 ,形态理论则可以大致预测未来数周数月甚至更长时间的趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
-* K线类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型
-  * 多方占优型
-  * 多方受阻型
-  * 多空平衡型
-  * 空方占优型
-  * 空方受阻型
-
- 
-* [不同形态的阳线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
-* [不同形态的阴线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
-* [不同形态的十字线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
-
+    * [看涨形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka3f32db0244a3f390d88bb9) 
+    * [看跌形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k28d32de024d28dd2c795c7f)
+    * [整理形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7e326d0257c7e1249ff682)
 
 
 # 参考
 * [K线入门从0到1，K线的基本形态](https://kknews.cc/finance/qo5axao.html)
 * [史上最全K線圖大全：搞懂70種K線組合形態，輕鬆低買高賣不踏空](https://kknews.cc/invest/5rezmo3.html)
 * [關於K線分析，這是我看過講解最全面的文章，收藏備用！原文網址：https://kknews.cc/finance/5xpb2v8.html](https://kknews.cc/finance/5xpb2v8.html)
+* [不同形态的阳线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
+* [不同形态的阴线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
+* [不同形态的十字线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
