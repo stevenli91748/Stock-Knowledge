@@ -10,3 +10,4 @@
 # 参考
 * [K线入门从0到1，K线的基本形态](https://kknews.cc/finance/qo5axao.html)
 * [史上最全K線圖大全：搞懂70種K線組合形態，輕鬆低買高賣不踏空](https://kknews.cc/invest/5rezmo3.html)
+* [關於K線分析，這是我看過講解最全面的文章，收藏備用！原文網址：https://kknews.cc/finance/5xpb2v8.html](https://kknews.cc/finance/5xpb2v8.html)
