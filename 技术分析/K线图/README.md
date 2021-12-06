@@ -4,3 +4,8 @@
 * [不同形态的阳线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
 * [不同形态的阴线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
 * [不同形态的十字线分析](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95k98f3284021498f137082c2e)
+
+
+
+# 参考
+* [K线入门从0到1，K线的基本形态](https://kknews.cc/finance/qo5axao.html)
