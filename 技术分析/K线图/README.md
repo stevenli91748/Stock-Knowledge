@@ -23,6 +23,12 @@
     * [看跌形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k28d32de024d28dd2c795c7f)
     * [整理形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7e326d0257c7e1249ff682)
 
+# 实战教学案例
+* [大阳线实战教学案例](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
+
+
+
+
 
 # 参考
 * [K线入门从0到1，K线的基本形态](https://kknews.cc/finance/qo5axao.html)
