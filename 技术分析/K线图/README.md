@@ -13,6 +13,7 @@
     * K线类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型,每一个类型的K线都有一个最基本的词根，这个词根与其他K线组合时，会使整个组合带上词根的基本含义，使我们一看就知道组合的含义
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * [大阳线 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
+        * 中阳线
         * [大阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
       * [多方受阻型---倒锤头线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
       * [多空平衡型---十字线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc1632f5021fc16a5320f3dc)
