@@ -14,7 +14,7 @@
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * [大阳线 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
         * 中阳线
-        * [大阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
+        * [小阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
       * [多方受阻型---倒锤头线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
       * [多空平衡型---十字线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc1632f5021fc16a5320f3dc)
       * [空方占优型---大阴线是空方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5732aa0226a5771bce9dc4)
