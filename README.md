@@ -201,6 +201,7 @@
 ---
 
 # 有用的链接
+* [美股交易平台比较 | 美股交易平台哪个好？](https://zhuanlan.zhihu.com/p/148224943)
 * [为什么股票书看得越多，炒股亏得越历害](https://www.zhihu.com/question/399029552/answer/1346181098)
 * [美股投资者必备的网站和工具（建议收藏）](https://zhuanlan.zhihu.com/p/301351203)
 * [美股入门必备文：深入了解美国股市的基础知识和交易制度](https://zhuanlan.zhihu.com/p/25221399)
