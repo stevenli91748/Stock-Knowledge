@@ -126,9 +126,12 @@
 * [五线开花： 股票最佳买卖点](https://weread.qq.com/web/reader/5ba32ef05ca1175ba3f4e22)
 * [短线操盘实战技法](https://weread.qq.com/web/reader/9ed3283071df673e9edf25ckc81322c012c81e728d9d180)
 
-
-
 ---
+
+# 博客
+
+* [美国股票中文网](https://www.usgupiao.com/)
+
 
 # 目录
 
@@ -203,6 +206,7 @@
 * [美股入门必备文：深入了解美国股市的基础知识和交易制度](https://zhuanlan.zhihu.com/p/25221399)
 * [美股日内交易（T+0）坐庄手法是什么？](https://www.zhihu.com/question/295827379/answer/1345677236)
 * [股市真正厉害的人：10元买1000股，跌到8元卖出500股，7.5元补500股](https://zhuanlan.zhihu.com/p/138097961)
+* [美股交易时间和盘前盘后交易---美国股票中文网](https://www.usgupiao.com/exchange/trade-timing/)
 * [Python数据分析实战：构建股票量化交易系统](https://juejin.im/book/5c7bcd6b6fb9a049a7128934)
 * [5000本金融书](http://www.7help.net/40.html)
 * [手把手教你用Python做股票量化分析](https://blog.csdn.net/ndhtou222/article/details/103776103)
