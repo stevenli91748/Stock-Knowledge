@@ -131,6 +131,7 @@
 # 博客
 
 * [美国股票中文网](https://www.usgupiao.com/)
+* [原方财经----股票学习网](http://www.yuanfangcj.com/archives/55005.html)
 
 
 # 目录
