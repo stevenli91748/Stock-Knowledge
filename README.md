@@ -77,6 +77,7 @@
 
 ### KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
+* [KDJ: 波段操作精解](https://weread.qq.com/web/reader/86e32300718e765e86eb1d5)
 
 ### RSI
 * [RSI](https://www.youtube.com/watch?v=rjkOjujLPvQ)
@@ -86,6 +87,8 @@
 
 ### 筹码
 * [从零开始学筹码分布： 短线操盘， 盘口分析， A股买卖点实战](https://weread.qq.com/web/reader/f8132bc0715a3d7ef81b018)
+* [现金流量与股票估值：挖掘成长股](https://weread.qq.com/web/reader/29532d30726e3b252953ddf)
+
 
 ### 波浪理论
 * [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
