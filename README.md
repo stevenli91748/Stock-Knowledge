@@ -70,6 +70,7 @@
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
 * [神奇的大均线](https://weread.qq.com/web/reader/98a32000716ce09c98a78f5)
 
+
 ### MACD
 * [参透MACD指标](https://weread.qq.com/web/reader/ab032f4071fd965dab015f5)
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/e61320205c8588e61c7a606)
@@ -132,6 +133,7 @@
 * [过顶擒龙---技术面过硬的书](https://weread.qq.com/web/reader/e5f32c7058c1e0e5f7b5090)
 * [五线开花： 股票最佳买卖点](https://weread.qq.com/web/reader/5ba32ef05ca1175ba3f4e22)
 * [短线操盘实战技法](https://weread.qq.com/web/reader/9ed3283071df673e9edf25ckc81322c012c81e728d9d180)
+* [半小时漫画股票实战](https://weread.qq.com/web/reader/d7c32f9071d7b82ed7c9b52kc81322c012c81e728d9d180)
 
 ---
 
