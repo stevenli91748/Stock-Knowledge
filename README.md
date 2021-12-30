@@ -134,7 +134,7 @@
 * [五线开花： 股票最佳买卖点](https://weread.qq.com/web/reader/5ba32ef05ca1175ba3f4e22)
 * [短线操盘实战技法](https://weread.qq.com/web/reader/9ed3283071df673e9edf25ckc81322c012c81e728d9d180)
 * [半小时漫画股票实战](https://weread.qq.com/web/reader/d7c32f9071d7b82ed7c9b52kc81322c012c81e728d9d180)
-
+* [我的股票笔记](https://www.kancloud.cn/stocknote/mystocknote)
 ---
 
 # 博客
