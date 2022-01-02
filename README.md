@@ -160,24 +160,29 @@
 
 ### 1 基本面分析
 
+由基本分析的定义我们可以看出，它的目的是为了判断股票现行股价的价位是否合理，并描绘出它未来可能的长远发展空间 
+ 
+
 ### 2 技术分析
+
+技术分析主要用来预测短期内股价涨跌的趋势
 
 * 技术分析方法
 * [技术分析方法分类](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
 * [技术分析和趋势判定](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa) 
 * [技术分析的三种理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
 * 技术分析理论
-* [道氏理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k16732dc0161679091c5aeb1)
-* [江恩理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k8f132430178f14e45fce0f7)
-* [波浪理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc9f326d018c9f0f895fb5e4)
-* 其他技术分析理论
-  * [箱体理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-  * [量价理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-  * [亚当理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-  * [随机漫步理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-  * [相反理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-  * [黄金分割率理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
-
+  * [道氏理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k16732dc0161679091c5aeb1)
+  * [江恩理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k8f132430178f14e45fce0f7)
+  * [波浪理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc9f326d018c9f0f895fb5e4)
+  * 其他技术分析理论
+    * [箱体理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+    * [量价理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+    * [亚当理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+    * [随机漫步理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+    * [相反理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+    * [黄金分割率理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
+  * K      
 
 [选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)|[买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)|[卖出](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E5%8D%96%E5%87%BA.md)|抄底逃顶|撤单|
 ---|---|---|---|---|
