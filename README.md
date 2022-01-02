@@ -35,7 +35,8 @@
 
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
 * [富途牛牛---股票看盘软件](https://www.moomoo.com/download/window?_ga=2.235367681.1402051834.1641161818-495647026.1641161818&_gac=1.61387102.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
-
+  * [富途牛牛 OpenAPI---股票开发API](https://www.moomoo.com/download/OpenAPI?_ga=2.134579697.1402051834.1641161818-495647026.1641161818&_gac=1.57512024.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
+  
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
 
