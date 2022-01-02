@@ -50,6 +50,9 @@
 * [用11个关健财务指标看透A股](https://weread.qq.com/web/reader/86a32400715a414e86a774b)
 
 
+### 分时
+* [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
+* [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
 
 ### K线
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
@@ -57,14 +60,13 @@
 * [从零开始学股票K线图：入门实战技巧](https://weread.qq.com/web/reader/6b732c507159af626b76f3a)
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 * [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
+* [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
 
 **买入卖出点**
 
-* [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
-* [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
-* [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
 * [股市抄底技术图谱大全](https://weread.qq.com/web/reader/bb232400726e3ad1bb209a4)
 * [股市逃顶技术图谱大全](https://weread.qq.com/web/reader/8f532bb0726e3ad38f51d65)
+
 ### 均线
 * [均线其实很简单](https://weread.qq.com/web/reader/1b932af05a01211b91ce51c)
 * [操盘手记： 135均线交易系统实战精解](https://weread.qq.com/web/reader/c41328b07159b24cc4154bd)
