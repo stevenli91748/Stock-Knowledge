@@ -173,7 +173,12 @@
       * 涨跌指数
         * KDJ
         * MACD
-        * RSA       
+        * RSA  
+        * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
+        * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
+        * [市场与价格指数](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k98f3284021498f137082c2e)
+        * [能量型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k3c5327902153c59dc0488e1)
+        *      
 
   * [3 市场分析](#3-市场分析)
 * 交易策略
