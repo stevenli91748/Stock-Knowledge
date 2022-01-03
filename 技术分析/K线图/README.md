@@ -53,7 +53,10 @@
       * [旗形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [楔形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [矩形形态](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
-
+  * [4. 切线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
+  * [5. 支撑与阻挡](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k9bf32f301f9bf31c7ff0a60)
+  * [6. 趋势与趋势线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc7432af0210c74d97b01b1c)
+  * [7. 移动均线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k70e32fb021170efdf2eca12)
 
 # 实战教学案例
 * [大阳线实战教学案例](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
