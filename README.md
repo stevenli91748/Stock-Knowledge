@@ -168,8 +168,12 @@
         * [相反理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
         * [黄金分割率理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
       * 股价
+        * [K线图](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/README.md) 
       * 成交量
-      * 涨跌指数      
+      * 涨跌指数
+        * KDJ
+        * MACD
+        * RSA       
 
   * [3 市场分析](#3-市场分析)
 * 交易策略
