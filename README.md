@@ -169,11 +169,13 @@
         * [黄金分割率理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
       * 股价
         * [K线图](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/README.md) 
+        * 分时 
       * 成交量
       * 涨跌指数
         * KDJ
         * MACD
-        * RSA  
+        * RSA
+        * Boll 
         * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
         * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
         * [市场与价格指数](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k98f3284021498f137082c2e)
