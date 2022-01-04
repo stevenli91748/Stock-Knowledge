@@ -39,6 +39,7 @@
   
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
+* [用11个关健财务指标看透A股---财务报表分析](https://weread.qq.com/web/reader/86a32400715a414e86a774b)
 
 ## 技术分析
 * [股票技术分析大全（超值白金版）](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1)
@@ -48,7 +49,7 @@
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
 * [看盘方法与技巧大全](https://weread.qq.com/web/reader/eb9325105c7b7ceb946d2dc)
 * [新手选股图解99招](https://weread.qq.com/web/reader/393328c05b28583937f8f73)
-* [用11个关健财务指标看透A股](https://weread.qq.com/web/reader/86a32400715a414e86a774b)
+
 
 
 ### 分时
