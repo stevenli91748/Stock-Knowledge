@@ -177,7 +177,7 @@
         * [K线图](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/README.md) 
         * 分时图 
       * 成交量
-      * 涨跌指标
+      * 涨跌指标---**CCI指标负责买入，移动平均线指标负责买出，K线负责止损**
         * 短线指标
         * 长线指标  
           * [MACD指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MACD/README.md) 
