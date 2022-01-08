@@ -181,6 +181,7 @@
         * [KDJ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/KDJ/README.md)
         * [RSI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/RSI%E6%8C%87%E6%A0%87/README.md)
         * BOLL 
+        * [MA(移动平均线)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MA(%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E7%BA%BF)/README.md)
         * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
         * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
         * [市场与价格指数](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k98f3284021498f137082c2e)
