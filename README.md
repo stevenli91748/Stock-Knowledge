@@ -179,7 +179,7 @@
         * 长线指标  
           * [MACD](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MACD/README.md) 
         * [KDJ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/RSI%E6%8C%87%E6%A0%87/README.md)
-        * RSA
+        * [RSI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/RSI%E6%8C%87%E6%A0%87/README.md)
         * BOLL 
         * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
         * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
