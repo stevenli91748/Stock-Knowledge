@@ -180,7 +180,7 @@
           * [MACD](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MACD/README.md) 
         * [KDJ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/KDJ/README.md)
         * [RSI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/RSI%E6%8C%87%E6%A0%87/README.md)
-        * BOLL 
+        * [BOLL ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/BOLL/README.md)
         * [MA(移动平均线)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MA(%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E7%BA%BF)/README.md)
         * [趋势线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E8%B6%8B%E5%8A%BF%E7%BA%BF/README.md)
         * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
