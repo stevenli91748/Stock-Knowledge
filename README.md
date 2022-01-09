@@ -193,6 +193,7 @@
         * [能量型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k3c5327902153c59dc0488e1)
   * [3 市场分析](#3-市场分析)
 * 交易策略
+  * [自定的交易方法 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
   * 短线操作
     * [选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)
     * [买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)
