@@ -44,7 +44,7 @@
 ## 技术分析
 * [股票技术分析大全（超值白金版）](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1)
 * [零基础看懂158张股市关键技术分析图](https://weread.qq.com/web/reader/16d32e00715a3a4a16d5219)
-
+* [股票投资理财1000个不可不知的小知识](https://weread.qq.com/web/reader/e78325907193f1e2e786916)
 ### 选股
 * [散户实战选股技巧必读全书](https://weread.qq.com/web/reader/efe32d3059a6edefe739e95)
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
