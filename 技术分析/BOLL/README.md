@@ -5,4 +5,4 @@
 
 
 # 目录
-* [布林线:给你精准战法的交易线](https://weread.qq.com/web/reader/d7c32f9071d7b82ed7c9b52kd3d322001ad3d9446802347)
+* [布林线:给你精准战法的交易线, BOLL指标通过这三条线之间的关系，再结合其他指标可成为研判大盘趋势的有效工具。](https://weread.qq.com/web/reader/d7c32f9071d7b82ed7c9b52kd3d322001ad3d9446802347)
