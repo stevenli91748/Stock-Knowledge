@@ -184,6 +184,7 @@
         * [KDJ指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/KDJ/README.md)
         * [RSI指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/RSI%E6%8C%87%E6%A0%87/README.md)
         * [BOLL指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/BOLL/README.md)
+        * [多空布林线 BBIBOLL指标](https://weread.qq.com/web/reader/d7c32f9071d7b82ed7c9b52kd3d322001ad3d9446802347)
         * [CCI指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/CCI/README.md)
         * [MA(移动平均线)指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MA(%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E7%BA%BF)/README.md)
         * [趋势线---可用CCI指标来画出正确的趋势线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E8%B6%8B%E5%8A%BF%E7%BA%BF/README.md)
