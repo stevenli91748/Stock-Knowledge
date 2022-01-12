@@ -190,6 +190,7 @@
         * [MA(移动平均线)指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/MA(%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E7%BA%BF)/README.md)
         * [捉超跌反弹利器——DMI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8D%89%E8%B6%85%E8%B7%8C%E5%8F%8D%E5%BC%B9%E5%88%A9%E5%99%A8%E2%80%94%E2%80%94DMI/README.md)
         * [净资产收益率---巴菲特最看重的指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%5B%E5%87%80%E8%B5%84%E4%BA%A7%E6%94%B6%E7%9B%8A%E7%8E%87/README.md)
+        * [筹码分布指标](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E7%AD%B9%E7%A0%81%E5%88%86%E5%B8%83%E6%8C%87%E6%A0%87/README.md)
         * [趋势线---可用CCI指标来画出正确的趋势线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E8%B6%8B%E5%8A%BF%E7%BA%BF/README.md)
         * [大势型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k6f4322302126f4922f45dec)
         * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
