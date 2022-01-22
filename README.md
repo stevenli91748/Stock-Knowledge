@@ -34,7 +34,7 @@
 ## 工具网站
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
 * [工具---技术分析|不能不会的股票技术分析工具： 江恩角度线 时空尺 辅助线 ](https://www.youtube.com/watch?v=cgrN4yiJMrc&t=64s)
-* [工具---三个揭露主力买卖动向工具 ！炒股人绝对不可以不会的干货！错过了就等于错过了所有赚钱的机会](https://www.youtube.com/watch?v=jFuZXWksOpA&t=22s)
+* [工具---三个揭露主力买卖动向工具: 1.筹码分布图 2.AI智能盯盘 3. 订单异动监测](https://www.youtube.com/watch?v=jFuZXWksOpA&t=22s)
 * [工具---富途牛牛---股票看盘软件](https://www.moomoo.com/download/window?_ga=2.235367681.1402051834.1641161818-495647026.1641161818&_gac=1.61387102.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
   * [富途牛牛 OpenAPI---股票开发API](https://www.moomoo.com/download/OpenAPI?_ga=2.134579697.1402051834.1641161818-495647026.1641161818&_gac=1.57512024.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
   
