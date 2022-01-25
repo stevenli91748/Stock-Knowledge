@@ -108,6 +108,7 @@
 
 ### 期权
 * [期权交易前，必须了解的3大陷阱](https://www.youtube.com/watch?v=ZNsHLhoNlR4)
+* [散户必看期权策略](https://www.youtube.com/watch?v=tozJLdS7FdA)
 
 ### 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
