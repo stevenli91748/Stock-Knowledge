@@ -106,6 +106,9 @@
 
 ### N字结构
 
+### 期权
+* [期权交易前，必须了解的3大陷阱](https://www.youtube.com/watch?v=ZNsHLhoNlR4)
+
 ### 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
