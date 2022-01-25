@@ -109,7 +109,7 @@
 ### 期权
 * [期权交易前，必须了解的3大陷阱](https://www.youtube.com/watch?v=ZNsHLhoNlR4)
 * [散户必看期权策略](https://www.youtube.com/watch?v=tozJLdS7FdA)
-
+* [为什么赚钱高手都玩期权？期权实战演示，带你看看期权交易有多赚钱](https://www.youtube.com/watch?v=6u4btGqAHk8&list=PLdx_la-W4WdBBDlq4Fn-ziE7UhDdsv5UU&index=6)
 ### 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
