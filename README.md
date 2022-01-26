@@ -31,6 +31,25 @@
 * [同花顺炒股实战从入门到精通](https://weread.qq.com/web/reader/8e432ca0717d303c8e49cf6)
 
 
+
+## 理论
+* 江恩理论
+  * [江恩华尔街45年---作者：江恩](https://weread.qq.com/web/reader/e2732e705c7bb0e27e50972)
+  * [江恩股票走势探测--作者：江恩 ](https://weread.qq.com/web/reader/b073239059a881b070cb330)
+  * [股票行情的真谛--作者：江恩](https://weread.qq.com/web/reader/6ed32f805988706ed011630)
+  * [江恩华尔街选股术--作者：江恩](https://weread.qq.com/web/reader/8733241059a1a587305aab3)
+  * [江恩股票投资圣经--作者：江恩 当年的授课教程](https://weread.qq.com/web/reader/4563284059645c456320aee)
+  * [江恩股市定律](https://weread.qq.com/web/reader/6d232960716ce0226d2182a)
+  * [江恩测市法则](https://weread.qq.com/web/reader/554326e0716cdcad5542eb9)
+  * [江恩选股方略](https://weread.qq.com/web/reader/cdb328a0716cdcafcdb394d)
+  * [从零开始学江恩理论： 短线操盘 ](https://weread.qq.com/web/reader/34432b8072037f3f344821e)
+  
+* 波浪理论
+* 道氏理论--过时
+* 价值投资理论
+* 缠论理论
+
+
 ## 工具网站
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
 * [工具---技术分析|不能不会的股票技术分析工具： 江恩角度线 时空尺 辅助线 ](https://www.youtube.com/watch?v=cgrN4yiJMrc&t=64s)
@@ -54,8 +73,6 @@
 * [一看就懂的看盘技法](https://weread.qq.com/web/reader/6603247071f639ac660746f)
 * [看盘方法与技巧大全](https://weread.qq.com/web/reader/eb9325105c7b7ceb946d2dc)
 * [新手选股图解99招](https://weread.qq.com/web/reader/393328c05b28583937f8f73)
-
-
 
 ### 分时
 * [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
@@ -152,11 +169,7 @@
 * [我的股票笔记](https://www.kancloud.cn/stocknote/mystocknote)
 ---
 
-### 江恩
-* []()
-* []()
-* []()
-* []()
+
 
 
 # 博客
