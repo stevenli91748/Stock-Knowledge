@@ -37,6 +37,7 @@
 * [工具---三个揭露主力买卖动向工具: 1.筹码分布图 2.AI智能盯盘 3. 订单异动监测](https://www.youtube.com/watch?v=jFuZXWksOpA&t=22s)
 * [工具---追踪多空博弈的神器,避免 ”卖出就涨，买入就跌“](https://www.youtube.com/watch?v=pNEHcZc7DxA)
 * [工具---富途moomoo---股票看盘软件](https://www.moomoo.com/download/window?_ga=2.235367681.1402051834.1641161818-495647026.1641161818&_gac=1.61387102.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
+  * [同时适用于美股、A股、港股的最简单易懂的看盘软件富途moomoo的使用方法](https://www.youtube.com/watch?v=OIK7JobFJfs&list=PLlARI-1H0jrcTGaXADyz98P01XTsCnYit&index=50)
   * [富途moomoo看盘软件的这些好用并且功能强大的工具， 为什么一直没被发现](https://www.youtube.com/watch?v=gp1jTZQ01ao)
   * [富途moomoo OpenAPI---股票开发API](https://www.moomoo.com/download/OpenAPI?_ga=2.134579697.1402051834.1641161818-495647026.1641161818&_gac=1.57512024.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
   
