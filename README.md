@@ -43,11 +43,11 @@
   * [江恩测市法则](https://weread.qq.com/web/reader/554326e0716cdcad5542eb9)
   * [江恩选股方略](https://weread.qq.com/web/reader/cdb328a0716cdcafcdb394d)
   * [从零开始学江恩理论： 短线操盘 ](https://weread.qq.com/web/reader/34432b8072037f3f344821e)
-  
 * 波浪理论
 * 道氏理论--过时
 * 价值投资理论
 * 缠论理论
+  * [缠论：缠中说缠核心炒股技术 第2版](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9) 
 
 
 ## 工具网站
@@ -100,7 +100,7 @@
 ### MACD
 * [参透MACD指标](https://weread.qq.com/web/reader/ab032f4071fd965dab015f5)
 * [振荡指标MACD： 波段操作精解](https://weread.qq.com/web/reader/e61320205c8588e61c7a606)
-* [缠论：缠中说缠核心炒股技术](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9)
+
 
 ### KDJ
 * [从0开始学KDJ指标： 短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/69e32f0071fd966669e6829)
