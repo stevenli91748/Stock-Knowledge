@@ -207,6 +207,7 @@
         * [超买超卖型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k1f032c402131f0e3dad99f3)
         * [市场与价格指数](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k98f3284021498f137082c2e)
         * [能量型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k3c5327902153c59dc0488e1)
+        * [恐慌指数](https://finance.sina.com.cn/stock/usstock/c/2022-01-26/doc-ikyakumy2679132.shtml)
   * [3 市场分析](#3-市场分析)
 * 交易策略
   * [自定的交易方法 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
