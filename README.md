@@ -85,7 +85,7 @@
 * [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
 * [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
 * [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
-
+* [史上最全K线形态，5分钟教你读懂70种K线，掌握低买高卖永不踏空](https://zhuanlan.zhihu.com/p/63411722)
 **买入卖出点**
 
 * [股市抄底技术图谱大全](https://weread.qq.com/web/reader/bb232400726e3ad1bb209a4)
