@@ -230,7 +230,7 @@
         * [恐慌指数](https://finance.sina.com.cn/stock/usstock/c/2022-01-26/doc-ikyakumy2679132.shtml)
   * [3 市场分析](#3-市场分析)
 * 交易策略
-  * [自定的交易方法 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
+  * [自己的交易系统法则 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
   * 短线操作
     * [美股盘前盘后的交易](https://www.youtube.com/watch?v=sLagZlDEazg) 
     * [短线看盘](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E7%9F%AD%E7%BA%BF%E7%9C%8B%E7%9B%98/README.md)
