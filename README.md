@@ -43,6 +43,7 @@
   * [江恩测市法则](https://weread.qq.com/web/reader/554326e0716cdcad5542eb9)
   * [江恩选股方略](https://weread.qq.com/web/reader/cdb328a0716cdcafcdb394d)
   * [从零开始学江恩理论： 短线操盘 ](https://weread.qq.com/web/reader/34432b8072037f3f344821e)
+* [炒股的智慧---在华尔街炒股为生的人](https://weread.qq.com/web/reader/f5f3255071fabd74f5f01db)
 * 波浪理论
 * 道氏理论--过时
 * 价值投资理论
