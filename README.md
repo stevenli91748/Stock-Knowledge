@@ -153,7 +153,11 @@
 * [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 * [炒股，不懂形态和趋势的关系,再炒10年也枉然](https://www.ice99.com/finance/4879763.html)
+
+
+
 ### 交易系统建立
+* [职业交易15年的经验： 交易模式只有两种：追求确定性和博弈不确定性，只有这两种模式，才是主动交易中能够持续维持较高收益的交易模式](https://www.ice99.com/finance/4881594.html)
 * [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
