@@ -115,6 +115,7 @@
 * [追踪主力: 散户操盘实战图解](https://weread.qq.com/web/reader/fa032c00716cde09fa043bc)
 * [主力的思维---日本神之散户](http://jxz1.j9p.com/pc/zhulidsw.pdf)
 * [主力追踪](https://www.ice99.com/finance/4877922.html#lg=1&slide=0)
+* [如何去寻找主力的踪迹，精准地掌握起涨点呢](https://www.ice99.com/StockMarket/4881846.html)
 ### 筹码
 * [从零开始学筹码分布： 短线操盘， 盘口分析， A股买卖点实战](https://weread.qq.com/web/reader/f8132bc0715a3d7ef81b018)
 * [现金流量与股票估值：挖掘成长股](https://weread.qq.com/web/reader/29532d30726e3b252953ddf)
