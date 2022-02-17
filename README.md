@@ -152,7 +152,7 @@
 * [以趋势交易为生](https://weread.qq.com/web/reader/6d1320b0720528226d155e6)
 * [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
-
+* [炒股，不懂形态和趋势的关系,再炒10年也枉然](https://www.ice99.com/finance/4879763.html)
 ### 交易系统建立
 * [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
