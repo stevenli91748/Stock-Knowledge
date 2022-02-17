@@ -145,7 +145,7 @@
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
 * [量价: 典型股票盘口分析（实操加强版）](https://weread.qq.com/web/reader/c86321205cab62c860f8b52)
 * [从零开始学量价分析：短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/5f33209072040afd5f3980b)
-
+* []()
 ### 量化交易
 * [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 
