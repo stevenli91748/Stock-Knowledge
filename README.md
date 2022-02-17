@@ -255,6 +255,7 @@
 * 交易策略
   * [自己的交易系统法则 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
   * 短线操作
+    * [短线炒股口诀，妙](https://www.ice99.com/StockMarket/4876735.html)
     * [美股盘前盘后的交易](https://www.youtube.com/watch?v=sLagZlDEazg) 
     * [短线看盘](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E7%9F%AD%E7%BA%BF%E7%9C%8B%E7%9B%98/README.md)
     * [选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)
