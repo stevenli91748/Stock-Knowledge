@@ -186,17 +186,28 @@
 **炒股盈利的关键在于两点：看好大势和抓住热点**
 
 * 技术理论
-  * [1 基本面分析](#1-基本面分析)
-    * []()
-    * []() 
+  * [1 基本面分析---做中长线才需要，短线大概了解](#1-基本面分析)
   * [2 技术分析](#2-技术分析)
     * [技术分析方法分类](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
     * [技术分析和趋势判定](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa) 
     * [技术分析的三种理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
     * 技术分析理论
-      * [道氏理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k16732dc0161679091c5aeb1)
+      * [道氏理论---已过时](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k16732dc0161679091c5aeb1)
+      * [炒股的智慧---在华尔街炒股为生的人](https://weread.qq.com/web/reader/f5f3255071fabd74f5f01db)
       * [江恩理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k8f132430178f14e45fce0f7)
+        * [江恩华尔街45年---作者：江恩](https://weread.qq.com/web/reader/e2732e705c7bb0e27e50972)
+        * [江恩股票走势探测--作者：江恩 ](https://weread.qq.com/web/reader/b073239059a881b070cb330)
+        * [股票行情的真谛--作者：江恩](https://weread.qq.com/web/reader/6ed32f805988706ed011630)
+        * [江恩华尔街选股术--作者：江恩](https://weread.qq.com/web/reader/8733241059a1a587305aab3)
+        * [江恩股票投资圣经--作者：江恩 当年的授课教程](https://weread.qq.com/web/reader/4563284059645c456320aee)
+        * [江恩股市定律](https://weread.qq.com/web/reader/6d232960716ce0226d2182a)
+        * [江恩测市法则](https://weread.qq.com/web/reader/554326e0716cdcad5542eb9)
+        * [江恩选股方略](https://weread.qq.com/web/reader/cdb328a0716cdcafcdb394d)
+        * [从零开始学江恩理论： 短线操盘 ](https://weread.qq.com/web/reader/34432b8072037f3f344821e)
       * [波浪理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc9f326d018c9f0f895fb5e4)
+      * 价值投资理论
+      * 缠论理论
+        * [缠论：缠中说缠核心炒股技术 第2版](https://weread.qq.com/web/reader/72a325f072103d0c72ad2c9) 
       * 其他技术分析理论
         * [箱体理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
         * [量价理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k45c322601945c48cce2e120)
