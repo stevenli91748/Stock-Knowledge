@@ -112,10 +112,16 @@
 * [RSI](https://www.youtube.com/watch?v=rjkOjujLPvQ)
 
 ### 追踪主力
+* [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
+* [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
+* [庄家克星： 职业操盘手解析坐庄全过程](https://weread.qq.com/web/bookReview/list?bookId=20532930716cde12205e182)
 * [追踪主力: 散户操盘实战图解](https://weread.qq.com/web/reader/fa032c00716cde09fa043bc)
 * [主力的思维---日本神之散户](http://jxz1.j9p.com/pc/zhulidsw.pdf)
 * [主力追踪](https://www.ice99.com/finance/4877922.html#lg=1&slide=0)
 * [如何去寻找主力的踪迹，精准地掌握起涨点呢](https://www.ice99.com/StockMarket/4881846.html)
+
+
+
 ### 筹码
 * [从零开始学筹码分布： 短线操盘， 盘口分析， A股买卖点实战](https://weread.qq.com/web/reader/f8132bc0715a3d7ef81b018)
 * [现金流量与股票估值：挖掘成长股](https://weread.qq.com/web/reader/29532d30726e3b252953ddf)
@@ -132,6 +138,8 @@
 * [期权交易前，必须了解的3大陷阱](https://www.youtube.com/watch?v=ZNsHLhoNlR4)
 * [散户必看期权策略](https://www.youtube.com/watch?v=tozJLdS7FdA)
 * [为什么赚钱高手都玩期权？期权实战演示，带你看看期权交易有多赚钱](https://www.youtube.com/watch?v=6u4btGqAHk8&list=PLdx_la-W4WdBBDlq4Fn-ziE7UhDdsv5UU&index=6)
+
+
 ### 高量战法---量价分析
 * [量价相生法则](https://weread.qq.com/web/bookReview/list?bookId=24932ad0719b205e2494e57)
 * [找准下一个买卖点---量价分析教你解盘获利](https://weread.qq.com/web/reader/c5a32de0723f40adc5a0251) 
@@ -142,10 +150,6 @@
 * [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 
 
-### 庄家手法
-* [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
-* [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
-* [庄家克星： 职业操盘手解析坐庄全过程](https://weread.qq.com/web/bookReview/list?bookId=20532930716cde12205e182)
 
 ### 趋势
    **证券领域最佳三书**
