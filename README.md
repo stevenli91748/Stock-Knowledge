@@ -111,6 +111,10 @@
 ### RSI
 * [RSI](https://www.youtube.com/watch?v=rjkOjujLPvQ)
 
+### 指数基金
+* [指数基金指南](https://weread.qq.com/web/reader/a3c32d105e24e4a3c06fb3c)
+
+
 ### 追踪主力
 * [一本书看透股市庄家](https://weread.qq.com/web/reader/61d32fd059b1ee61d68a68f)
 * [图解庄家手段](https://weread.qq.com/web/reader/d9932cd05a15a7d99849822)
