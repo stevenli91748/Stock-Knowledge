@@ -65,6 +65,8 @@
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
 * [用11个关健财务指标看透A股---财务报表分析](https://weread.qq.com/web/reader/86a32400715a414e86a774b)
+* 股票估值
+  * [财务报表分析与股票估值](https://weread.qq.com/web/reader/db2323b07224e317db24bd5) 
 
 ## 技术分析
 * [股票技术分析大全（超值白金版）](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1)
