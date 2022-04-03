@@ -34,6 +34,10 @@
 
 
 ## 理论
+* 股票大作手操盘术
+  * [股票大作手操盘术精读](https://weread.qq.com/web/reader/f4132e50718ac26bf418d5d) 
+  * [股票大作手回忆录](https://weread.qq.com/web/reader/1b5325907159cacc1b5e0e1)
+  * 
 * 江恩理论
   * [江恩华尔街45年---作者：江恩](https://weread.qq.com/web/reader/e2732e705c7bb0e27e50972)
   * [江恩股票走势探测--作者：江恩 ](https://weread.qq.com/web/reader/b073239059a881b070cb330)
