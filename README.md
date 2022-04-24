@@ -234,9 +234,13 @@
 * 技术理论
   * [1 基本面分析---做中长线才需要，短线大概了解](#1-基本面分析)
   * [2 技术分析](#2-技术分析)
-    * [技术分析方法分类](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
+    * [技术分析的5种方法](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
+      * K线分析理论
+      * 切线分析理论
+      * 形态分析理论
+      * 波浪分析
+      * 指标分析 
     * [技术分析和趋势判定](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa) 
-    * [技术分析的三种理论](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1ke4d32d5015e4da3b7fbb1fa)
     * 技术分析理论
       * [道氏理论---已过时](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k16732dc0161679091c5aeb1)
       * [炒股的智慧---在华尔街炒股为生的人](https://weread.qq.com/web/reader/f5f3255071fabd74f5f01db)
