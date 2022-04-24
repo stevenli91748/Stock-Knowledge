@@ -289,17 +289,19 @@
         * [能量型指标](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k3c5327902153c59dc0488e1)
         * [恐慌指数](https://finance.sina.com.cn/stock/usstock/c/2022-01-26/doc-ikyakumy2679132.shtml)
   * [3 市场分析](#3-市场分析)
-* 交易策略
-  * [自己的交易系统法则 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
-  * 短线操作
-    * [短线炒股口诀，妙](https://www.ice99.com/StockMarket/4876735.html)
+* 交易实践
+  * 交易策略
+    * [自己的交易系统法则 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/README.md)
+    * 短线操作
+      * [短线炒股口诀，妙](https://www.ice99.com/StockMarket/4876735.html)
+      * [短线看盘](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E7%9F%AD%E7%BA%BF%E7%9C%8B%E7%9B%98/README.md) 
     * [美股盘前盘后的交易](https://www.youtube.com/watch?v=sLagZlDEazg) 
-    * [短线看盘](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E7%9F%AD%E7%BA%BF%E7%9C%8B%E7%9B%98/README.md)
-    * [选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)
-    * [买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)
-    * [卖出](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E5%8D%96%E5%87%BA.md)
-    * 抄底逃顶
-    * [止损](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E6%AD%A2%E6%8D%9F/README.md)
+    * 美股盘中交易    
+      * [选股](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E9%80%89%E8%82%A1.md)
+      * [买入](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E4%B9%B0%E5%85%A5.md)
+      * [卖出](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E5%8D%96%E5%87%BA.md)
+      * 抄底逃顶
+      * [止损](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/%E6%AD%A2%E6%8D%9F/README.md)
  
 
 ---
