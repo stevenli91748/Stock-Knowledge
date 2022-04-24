@@ -62,10 +62,7 @@
   * [股票大作手操盘术精读](https://weread.qq.com/web/reader/f4132e50718ac26bf418d5d) 
   * [股票大作手回忆录](https://weread.qq.com/web/reader/1b5325907159cacc1b5e0e1)
 
-### 波浪理论
-* [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
-
-* 江恩理论
+## 江恩理论
   * [江恩华尔街45年---作者：江恩](https://weread.qq.com/web/reader/e2732e705c7bb0e27e50972)
   * [江恩股票走势探测--作者：江恩 ](https://weread.qq.com/web/reader/b073239059a881b070cb330)
   * [股票行情的真谛--作者：江恩](https://weread.qq.com/web/reader/6ed32f805988706ed011630)
@@ -77,6 +74,7 @@
   * [从零开始学江恩理论： 短线操盘 ](https://weread.qq.com/web/reader/34432b8072037f3f344821e)
 * [炒股的智慧---在华尔街炒股为生的人](https://weread.qq.com/web/reader/f5f3255071fabd74f5f01db)
 * 波浪理论
+  * [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1) 
 * 道氏理论--过时
 * 价值投资理论
 * 缠论理论
