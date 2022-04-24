@@ -194,6 +194,9 @@
 * [专业投机原理](https://weread.qq.com/web/reader/e26326b0717f7932e26d8a4)
 * [炒股，不懂形态和趋势的关系,再炒10年也枉然](https://www.ice99.com/finance/4879763.html)
 
+### 心理学
+* [交易心理学](https://weread.qq.com/web/reader/f9b32a607255158ef9bbace)
+* [股票深度交易心理学](https://weread.qq.com/web/reader/8ba3291071f936b78ba3def)
 
 
 ### 交易系统建立
@@ -202,8 +205,6 @@
 * [海龟交易法则（第3版）---](https://weread.qq.com/web/reader/96b32bb05df4d596b5c360d)
 * [短线交易获利密决](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
-* [交易心理学](https://weread.qq.com/web/reader/f9b32a607255158ef9bbace)
-* [股票深度交易心理学](https://weread.qq.com/web/reader/8ba3291071f936b78ba3def)
 * [止损： 如何克服贪婪和恐惧](https://weread.qq.com/web/reader/94732dc0722038b8947e6e8)
 * [一本书读懂涨停板战法](https://weread.qq.com/web/reader/97732c005c558e9772101a8)
 * [交易之道： 傅海棠观点集---从5万起步到1.2亿](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
