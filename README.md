@@ -59,7 +59,10 @@
 * 股票大作手操盘术
   * [股票大作手操盘术精读](https://weread.qq.com/web/reader/f4132e50718ac26bf418d5d) 
   * [股票大作手回忆录](https://weread.qq.com/web/reader/1b5325907159cacc1b5e0e1)
-  * 
+
+### 波浪理论
+* [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
+
 * 江恩理论
   * [江恩华尔街45年---作者：江恩](https://weread.qq.com/web/reader/e2732e705c7bb0e27e50972)
   * [江恩股票走势探测--作者：江恩 ](https://weread.qq.com/web/reader/b073239059a881b070cb330)
@@ -159,8 +162,6 @@
 * [现金流量与股票估值：挖掘成长股](https://weread.qq.com/web/reader/29532d30726e3b252953ddf)
 
 
-### 波浪理论
-* [波浪理论实战新解](https://weread.qq.com/web/reader/f56321a05e3a5ef56d134c1)
 
 ### 平均分割
 
@@ -178,6 +179,8 @@
 * [量价: 典型股票盘口分析（实操加强版）](https://weread.qq.com/web/reader/c86321205cab62c860f8b52)
 * [从零开始学量价分析：短线操作 盘口分析 A股买卖点](https://weread.qq.com/web/reader/5f33209072040afd5f3980b)
 * [量价分析:量价分析创始人盘口解读方法](https://weread.qq.com/web/reader/20832bf071f8f05c208da05)
+
+
 ### 量化交易
 * [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 
