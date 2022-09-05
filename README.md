@@ -50,6 +50,9 @@
 
 # 在线书籍
 
+## 股票数据提供商
+* [咕咕数据 | 专业的数据提供商提供专业全面的数据接口、商业数据分析，让数据成为您的生产原料](https://www.gugudata.com/)
+
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
 * [通达信实战](https://weread.qq.com/web/reader/a52320a072012079a52224a)
