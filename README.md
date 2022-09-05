@@ -55,7 +55,8 @@
 * [通达信实战](https://weread.qq.com/web/reader/a52320a072012079a52224a)
 * [同花顺炒股实战从入门到精通](https://weread.qq.com/web/reader/8e432ca0717d303c8e49cf6)
 
-
+# video
+* [美股、港股、A 股实时以及历史行情数据 API 接口](https://www.youtube.com/watch?v=sSeiaMLRKIw)
 
 ## 理论
 * 股票大作手操盘术
