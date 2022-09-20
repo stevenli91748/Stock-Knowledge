@@ -62,7 +62,7 @@
 * [美股、港股、A 股实时以及历史行情数据 API 接口](https://www.youtube.com/watch?v=sSeiaMLRKIw)
 * [【富途API】 Ticker lv2 串流 美股数据 美股行情 富途牛牛 futu api TIGR AMC](https://www.youtube.com/watch?v=FnADT6YcpnI)
 * [Python 小程式連接富途牛牛(二) l 下載實時股票數據 l 不懂編程都可以 l 不用課金](https://www.youtube.com/watch?v=vwW6I-gOZEM)
-
+* [[程序员小飞]如何通过Python一步获取股票实时数据｜量化投资的免费数据获取](https://www.youtube.com/watch?v=zYf8LbTNjME)
 
 
 ## 理论
