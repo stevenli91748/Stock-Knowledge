@@ -90,6 +90,8 @@
 
 
 ## 工具网站
+* ChatGPT股票
+  * [【全自動化交易賺錢】Ai寫出1200%收益的交易策略只用5分鐘！不需要編程知識 ，超簡單！免費完整攻略，手把手教你做自己的交易機器人](https://www.youtube.com/watch?v=ghHl4as3vAQ)  
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
 * [工具---技术分析|不能不会的股票技术分析工具： 江恩角度线 时空尺 辅助线 ](https://www.youtube.com/watch?v=cgrN4yiJMrc&t=64s)
 * [工具---三个揭露主力买卖动向工具: 1.筹码分布图 2.AI智能盯盘 3. 订单异动监测](https://www.youtube.com/watch?v=jFuZXWksOpA&t=22s)
