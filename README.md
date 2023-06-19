@@ -196,6 +196,7 @@
 
 ### 趋势
    **证券领域最佳三书**
+* [【全程硬核】趨勢交易全攻略](https://www.youtube.com/watch?v=MTmz6OLCykc)   
 * [股市趋势技术分析（第10版）---经典中的经典、证券投资的最佳入门书、股市图表分析的权威之作](https://weread.qq.com/web/reader/09f325105e009a09f7bb132kc81322c012c81e728d9d180)
 * [以趋势交易为生](https://weread.qq.com/web/reader/6d1320b0720528226d155e6)
 * [通向财务自由之路](https://weread.qq.com/web/reader/70e32b2071ef4ce670e0ad4)
