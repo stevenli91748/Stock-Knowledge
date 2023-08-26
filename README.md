@@ -59,6 +59,7 @@
 * [同花顺炒股实战从入门到精通](https://weread.qq.com/web/reader/8e432ca0717d303c8e49cf6)
 
 # video
+* [123交易系统：一课毕业 good](https://www.youtube.com/watch?v=lS5Nb0axvWM)
 * [美股、港股、A 股实时以及历史行情数据 API 接口](https://www.youtube.com/watch?v=sSeiaMLRKIw)
 * [【富途API】 Ticker lv2 串流 美股数据 美股行情 富途牛牛 futu api TIGR AMC](https://www.youtube.com/watch?v=FnADT6YcpnI)
 * [Python 小程式連接富途牛牛(二) l 下載實時股票數據 l 不懂編程都可以 l 不用課金](https://www.youtube.com/watch?v=vwW6I-gOZEM)
