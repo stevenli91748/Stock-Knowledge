@@ -91,9 +91,6 @@
 
 
 ## 工具网站
-* MultiCharts and 
-  * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk)
-  * [第一次學Multicharts程式碼就上手－PowerLanguage語法教學](https://quantpass.org/powerlanguage-1/)
 * ChatGPT股票
   * [【全自動化交易賺錢】Ai寫出1200%收益的交易策略只用5分鐘！不需要編程知識 ，超簡單！免費完整攻略，手把手教你做自己的交易機器人](https://www.youtube.com/watch?v=ghHl4as3vAQ)  
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
@@ -104,6 +101,13 @@
   * [同时适用于美股、A股、港股的最简单易懂的看盘软件富途moomoo的使用方法](https://www.youtube.com/watch?v=OIK7JobFJfs&list=PLlARI-1H0jrcTGaXADyz98P01XTsCnYit&index=50)
   * [富途moomoo看盘软件的这些好用并且功能强大的工具， 为什么一直没被发现](https://www.youtube.com/watch?v=gp1jTZQ01ao)
   * [富途moomoo OpenAPI---股票开发API](https://www.moomoo.com/download/OpenAPI?_ga=2.134579697.1402051834.1641161818-495647026.1641161818&_gac=1.57512024.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
+
+
+## 量化交易
+   * [四大量化交易平台 ( muticharts, Excel VBA, python 量化交易平台,XQ 量化交易平台) 比較，程式交易策略加碼分享](https://school.gugu.fund/blog/gugu_knowledge/7807989341)
+     * MultiCharts and 
+       * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk)
+       * [第一次學Multicharts程式碼就上手－PowerLanguage語法教學](https://quantpass.org/powerlanguage-1/)
   
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
