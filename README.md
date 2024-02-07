@@ -91,6 +91,8 @@
 
 
 ## 工具网站
+* MultiCharts and 
+  * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk) 
 * ChatGPT股票
   * [【全自動化交易賺錢】Ai寫出1200%收益的交易策略只用5分鐘！不需要編程知識 ，超簡單！免費完整攻略，手把手教你做自己的交易機器人](https://www.youtube.com/watch?v=ghHl4as3vAQ)  
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
