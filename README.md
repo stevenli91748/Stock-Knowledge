@@ -104,6 +104,7 @@
 
 
 ## 量化交易
+   * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
    * [四大量化交易平台 ( muticharts, Excel VBA, python 量化交易平台,XQ 量化交易平台) 比較，程式交易策略加碼分享](https://school.gugu.fund/blog/gugu_knowledge/7807989341)
      * MultiCharts and 
        * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk)
