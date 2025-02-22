@@ -46,6 +46,10 @@
 10 《股市大作手回忆录》
 
 
+### 量化交易
+* [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
+* [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
+* [30天解锁python量化开发](https://www.youtube.com/watch?v=RfRAJHgNOpU&list=PLukFwkBfR26zXDMRw9AhX-xFuJaY68_kh)
 
 
 # 在线书籍
@@ -200,8 +204,6 @@
 * [量价分析:量价分析创始人盘口解读方法](https://weread.qq.com/web/reader/20832bf071f8f05c208da05)
 
 
-### 量化交易
-* [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 
 
 
