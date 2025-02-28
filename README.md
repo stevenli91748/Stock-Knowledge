@@ -47,6 +47,7 @@
 
 
 ### 量化交易
+* [量化交易编程语言选择](https://www.youtube.com/watch?v=UydM3-JpGyI)
 * [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
 * [30天解锁python量化开发](https://www.youtube.com/watch?v=RfRAJHgNOpU&list=PLukFwkBfR26zXDMRw9AhX-xFuJaY68_kh)
