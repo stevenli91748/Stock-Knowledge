@@ -47,6 +47,7 @@
 
 
 ### 量化交易
+* 应该看的第一本量化交易的书：  打开量化投资的黑箱  （第2版）
 * [量化交易编程语言选择](https://www.youtube.com/watch?v=UydM3-JpGyI)
 * [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
 * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
