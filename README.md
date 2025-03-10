@@ -115,6 +115,8 @@
      * MultiCharts and 
        * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk)
        * [第一次學Multicharts程式碼就上手－PowerLanguage語法教學](https://quantpass.org/powerlanguage-1/)
+       * [如何用Python創建一個Telegram交易訊號機器人，為你一年節省600+美金](https://www.youtube.com/watch?v=drvyh8x4egU)
+       * [通过Python连接盈透实现自动化量化交易](https://www.youtube.com/watch?v=4csl4BJCme0)
   
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
