@@ -53,6 +53,11 @@
 * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
 * [30天解锁python量化开发](https://www.youtube.com/watch?v=RfRAJHgNOpU&list=PLukFwkBfR26zXDMRw9AhX-xFuJaY68_kh)
 
+# 系统炒股学习步骤
+
+
+
+
 
 # 在线书籍
 
@@ -63,6 +68,9 @@
   2. 阿里云行情服务：​提供全球各主要交易所的行情数据服务，包括美股历史数据，适用于企业级用户。 ​aliyun.com
   3. [AKShare](https://akshare.akfamily.xyz/introduction.html)：​一个基于 Python 的开源金融数据接口库，提供美股历史行情数据获取功能，适合有编程能力的用户。 ​AkShare
   此外，部分券商可能提供历史数据下载功能，建议您联系所使用的券商客服，了解其是否提供所需的历史交易数据服务。
+
+
+
 
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
