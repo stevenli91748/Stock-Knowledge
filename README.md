@@ -46,6 +46,9 @@
 10 《股市大作手回忆录》
 
 
+# [系统炒股学习步骤](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
+
+
 ### 量化交易
 * 应该看的第一本量化交易的书：  打开量化投资的黑箱  （第2版）
 * [量化交易编程语言选择](https://www.youtube.com/watch?v=UydM3-JpGyI)
@@ -53,7 +56,7 @@
 * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
 * [30天解锁python量化开发](https://www.youtube.com/watch?v=RfRAJHgNOpU&list=PLukFwkBfR26zXDMRw9AhX-xFuJaY68_kh)
 
-# 系统炒股学习步骤
+
 
 
 
