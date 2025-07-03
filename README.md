@@ -155,6 +155,7 @@
 * [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
 
 ### K线
+* [75种K线基本形态](https://www.aicoin.com/zh-Hans/article/293307)
 * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
 * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
 * [从零开始学股票K线图：入门实战技巧](https://weread.qq.com/web/reader/6b732c507159af626b76f3a)
