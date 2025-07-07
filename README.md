@@ -77,8 +77,6 @@
 
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
-* [通达信实战](https://weread.qq.com/web/reader/a52320a072012079a52224a)
-* [同花顺炒股实战从入门到精通](https://weread.qq.com/web/reader/8e432ca0717d303c8e49cf6)
 
 # video
 * [123交易系统：一课毕业 good](https://www.youtube.com/watch?v=lS5Nb0axvWM)
