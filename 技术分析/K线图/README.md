@@ -14,7 +14,8 @@
   * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
   * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
   * [实战K线图从新手到高手](https://weread.qq.com/web/reader/2ab3205071e429072ab8770)
-  
+
+  ---
   
   * [不同周期( 1分钟K线图, 5分钟K线图, 15分钟K线图, 30分钟K线图, 60分钟K线图, 日K线, 周K线, 月K线, ) ](https://new.qq.com/rain/a/20210716A067RW00)
   * [1. K线理论---分析单根K线和几根K线组合的“酒田战法”已经发展成为K线图分析的主流—K线理论。该理论主要是识别K线的信号意义，以供投资者进行短线交易决策, K线理论大致可以预测数天的未来趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
