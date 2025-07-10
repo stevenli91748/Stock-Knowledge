@@ -9,8 +9,30 @@
 **K线语法5大要素为: 形态、组合、位置、时间、成交量**
 
 **将K线理论、缺口理论和形态理论结合在一起，才能真正识别K线的盘面语言。成功的交易应当在把握长期趋势的同时寻找短线的买卖点，这要求我们3种理论都不偏废**
+
+* 参考书
+  * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
+  * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
+  * [实战K线图从新手到高手](https://weread.qq.com/web/reader/2ab3205071e429072ab8770)
+  
+  
   * [不同周期( 1分钟K线图, 5分钟K线图, 15分钟K线图, 30分钟K线图, 60分钟K线图, 日K线, 周K线, 月K线, ) ](https://new.qq.com/rain/a/20210716A067RW00)
   * [1. K线理论---分析单根K线和几根K线组合的“酒田战法”已经发展成为K线图分析的主流—K线理论。该理论主要是识别K线的信号意义，以供投资者进行短线交易决策, K线理论大致可以预测数天的未来趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
+  * **单根K线----单根K线看多空，两根K线看后位**
+      * **实体大小不同的K线**
+        * [小实体阴线  ](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k98f3284021498f137082c2e)
+        * [小实体阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3c5327902153c59dc0488e1)
+        * [中等实体阴线和阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kb6d32b90216b6d767d2f0dc)
+        * [大实体阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
+        * [大实体阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
+      * **光秃型K线**
+        * [光头光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k1ff325f02181ff1de7742fc)
+        * [光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k4e73277021a4e732ced3b55)
+        * [光头阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k02e32f0021b02e74f10ece8)
+        * [光头光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k33e3289021c33e75ff09694)
+        * [光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k6ea321b021d6ea9ab1ba605)
+        * [光头阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k341323f021e34173cb3824c)
+  * **k线组合**
     * K线类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型,每一个类型的K线都有一个最基本的词根，这个词根与其他K线组合时，会使整个组合带上词根的基本含义，使我们一看就知道组合的含义
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * [大阳线---K线主要型态 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
