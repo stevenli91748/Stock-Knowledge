@@ -49,7 +49,7 @@
       * **星型K线**
         * [十字星](https://weread.qq.com/web/reader/2ab3205071e429072ab8770ke3632bd0222e369853df322)
         * [T字线与倒T线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k19c3222022419ca14e7eef7)
-  * **k线组合**
+  * **k线组合---双k线 或 多k线**
     * K线类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型,每一个类型的K线都有一个最基本的词根，这个词根与其他K线组合时，会使整个组合带上词根的基本含义，使我们一看就知道组合的含义
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * [大阳线---K线主要型态 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
@@ -110,7 +110,7 @@
     * [竭尽缺口](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kd8232f00235d82c8d161fb2)
   * [3. 形态理论---·技术图形分析开始更多地建立在K线的基础之上，发展成为当代的形态理论，长期以来总结的各种经典图形已广泛地为人所接受，主要用于确认趋势的转变，以供投资者进行中长线的交易决策 ,形态理论则可以大致预测未来数周数月甚至更长时间的趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
     * [形态汇总](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
-    * [反转形态](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k65132ca01b6512bd43d90e3)
+    * [3.1 反转形态](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k65132ca01b6512bd43d90e3)
       * [看涨形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka3f32db0244a3f390d88bb9)
         * [V形底](https://weread.qq.com/web/reader/2a1327405933b42a14af962k14b3246024514bfa6bb1534)
         * [W底](https://weread.qq.com/web/reader/2a1327405933b42a14af962k7cb321502467cbbc409e62d)
@@ -130,7 +130,7 @@
         * [下降三角形](https://weread.qq.com/web/reader/2a1327405933b42a14af962k68d3221025468d30a95982e)
         * [下降旗形](https://weread.qq.com/web/reader/2a1327405933b42a14af962k3ef329302553ef815416990)
         * [上升楔形](https://weread.qq.com/web/reader/2a1327405933b42a14af962k93d32d9025693db85ed9e60) 
-    * [整理形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7e326d0257c7e1249ff682)
+    * [3.2 整理形态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7e326d0257c7e1249ff682)
       * [对称三角形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [上升三角形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [下降三角形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
@@ -139,7 +139,7 @@
       * [旗形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [楔形](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
       * [矩形形态](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
-    * [特殊形态](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kfe932230253fe9fc289c8a3)
+    * [3.3 特殊形态](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kfe932230253fe9fc289c8a3)
       * [美人肩](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kfe932230253fe9fc289c8a3)
       * [黄金坑](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3ef329302553ef815416990)
       * [金足底](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k93d32d9025693db85ed9e60) 
