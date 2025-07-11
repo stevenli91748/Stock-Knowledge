@@ -155,15 +155,9 @@
 * [分时图实战：解读获利形态，准确定位买卖点，精通短线交易](https://weread.qq.com/web/reader/a6732db0715a413ba67778f)
 * [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
 
-### K线
-* [75种K线基本形态](https://www.aicoin.com/zh-Hans/article/293307)
-* [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
-* [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
-* [从零开始学股票K线图：入门实战技巧](https://weread.qq.com/web/reader/6b732c507159af626b76f3a)
-* [蜡烛图方法：从入门到精通（第2版）](https://weread.qq.com/web/reader/4653239071eeef4b465744f)
-* [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
-* [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
-* [史上最全K线形态，5分钟教你读懂70种K线，掌握低买高卖永不踏空](https://zhuanlan.zhihu.com/p/63411722)
+### [K线分析](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/README.md)
+
+
 **买入卖出点**
 
 * [股市抄底技术图谱大全](https://weread.qq.com/web/reader/bb232400726e3ad1bb209a4)
