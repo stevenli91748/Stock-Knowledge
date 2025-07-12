@@ -31,12 +31,12 @@
   * [1. K线理论---分析单根K线和几根K线组合的“酒田战法”已经发展成为K线图分析的主流—K线理论。该理论主要是识别K线的信号意义，以供投资者进行短线交易决策, K线理论大致可以预测数天的未来趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
   * **单根K线----单根K线看多空，两根K线看后位**
       * [史上最全的48种单K线形态讲解（珍藏版）](https://zhuanlan.zhihu.com/p/564922411) 
-      * **实体大小不同的K线**
-        * [小实体阴线  ](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k98f3284021498f137082c2e)
-        * [小实体阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3c5327902153c59dc0488e1)
-        * [中等实体阴线和阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kb6d32b90216b6d767d2f0dc)
-        * [大实体阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
-        * [大实体阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
+      * **实体大小不同的K线----实体大小揭示涨跌的力度的事实，实体越大，涨跌幅度越大**
+        * [小实体阴线---实体幅度在1~3%  ](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k98f3284021498f137082c2e)
+        * [小实体阳线---实体幅度在1~3%](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3c5327902153c59dc0488e1)
+        * [中等实体阴线和阳线---实体幅度在3~7%](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kb6d32b90216b6d767d2f0dc)
+        * [大实体阴线---实体幅度大于7%](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
+        * [大实体阳线---实体幅度大于7%](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k37632cd021737693cfc7149)
       * **光秃型K线**
         * [光头光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k1ff325f02181ff1de7742fc)
         * [光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k4e73277021a4e732ced3b55)
@@ -44,10 +44,16 @@
         * [光头光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k33e3289021c33e75ff09694)
         * [光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k6ea321b021d6ea9ab1ba605)
         * [光头阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k341323f021e34173cb3824c)
-      * **长影型K线**
+      * **长影型K线---影线长短揭示压力、支撑的强弱力度。影线越长，则压力、支撑力度越大**
+        * 上下影线等长的阴线 
+        * 上下影线等长的阳线
+        * 上影线长于下影线的阳线
+        * 上影线长于下影线的阴线
+        * 下影线长于上影线的阴线
+        * 下影线长于上影线的阳线
         * [锤子线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k636320102206364d3f0ffdc)
         * [墓碑线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k182326e0221182be0c5ca23)
-      * **星型K线**
+      * **星型K线---实体幅度小于1%**
         * [十字星](https://weread.qq.com/web/reader/2ab3205071e429072ab8770ke3632bd0222e369853df322)
         * [T字线与倒T线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k19c3222022419ca14e7eef7)
   * **k线组合---双k线 或 多k线**
