@@ -114,6 +114,8 @@
 
 
 ## 工具网站
+* tradingView
+  * [TradingView](https://www.tradingview.com/chart/) 
 * ChatGPT股票
   * [【全自動化交易賺錢】Ai寫出1200%收益的交易策略只用5分鐘！不需要編程知識 ，超簡單！免費完整攻略，手把手教你做自己的交易機器人](https://www.youtube.com/watch?v=ghHl4as3vAQ)  
 * [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
