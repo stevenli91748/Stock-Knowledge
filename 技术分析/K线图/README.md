@@ -202,17 +202,27 @@
     * [线性回归线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
   * [5. 支撑与阻挡](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k9bf32f301f9bf31c7ff0a60)
   * [6. 趋势与趋势线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc7432af0210c74d97b01b1c)
-  * [7. 移动均线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k70e32fb021170efdf2eca12)
+  * [7. K线与均线分析](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k70e32fb021170efdf2eca12)
     * [20年老股民独家干货：月、周、日、60分均线系统的综合运用](https://zhuanlan.zhihu.com/p/373507175)
-    * 均线变化
+    * 均线
       * 均线转折
       * 均线交叉
         * 黄金交叉
         * 死亡交叉 
       * 均线缠绕
       * 均线发散 
-    * []()
-    * []()
+      * 均线型态
+        * [银山谷、金山谷与死亡谷](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kc45328f0274c45147dee704)
+        * [乌云密布](https://weread.qq.com/web/reader/2ab3205071e429072ab8770keb132680275eb160de1d35c)
+        * [蛟龙出海与断头铡刀](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k5ef32bd02765ef0599381f7)
+        * [老鸭头](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k07e323f027707e1cd7dc674)
+        * [秒高台](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kda432420278da4fb5c6e9ad)
+        * [青龙取水](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k4c5327a02794c56ff4ce24c)
+  * 8 K线与技术指标分析
+    * K线与 MACD指标分析
+    * K线与 KDJ指标分析
+    * K线与 BOLL线指标分析
+    * K线与 RSI指标分析
 # 实战教学案例
 * [大阳线实战教学案例](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
 
