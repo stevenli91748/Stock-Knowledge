@@ -223,6 +223,7 @@
     * K线与 KDJ指标分析
     * K线与 BOLL线指标分析
     * K线与 RSI指标分析
+  * 9 [从K线看主力操作](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k9fc324302859fc3d71522e0)
 # 实战教学案例
 * [大阳线实战教学案例](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
 
