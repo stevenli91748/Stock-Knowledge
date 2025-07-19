@@ -45,6 +45,8 @@
 
 10 《股市大作手回忆录》
 
+# 股票学习网站
+  * [股票学习](http://www.net767.com/)
 
 # [系统炒股学习步骤](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
 
