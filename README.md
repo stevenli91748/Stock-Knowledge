@@ -45,12 +45,6 @@
 # [系统炒股学习步骤](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
 
 
-### 量化交易
-* 应该看的第一本量化交易的书：  打开量化投资的黑箱  （第2版）
-* [量化交易编程语言选择](https://www.youtube.com/watch?v=UydM3-JpGyI)
-* [Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)
-* [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
-* [30天解锁python量化开发](https://www.youtube.com/watch?v=RfRAJHgNOpU&list=PLukFwkBfR26zXDMRw9AhX-xFuJaY68_kh)
 
 
 
@@ -60,13 +54,6 @@
 
 # 在线书籍
 
-## 股票数据提供商
-* [咕咕数据 | 专业的数据提供商提供专业全面的数据接口、商业数据分析，让数据成为您的生产原料](https://www.gugudata.com/)
-* ​通常，券商主要提供实时交易数据，而历史交易数据的获取渠道可能有限。​然而，您可以通过以下方式获取美股历史交易数据：​
-  1. 咕咕数据（Gugudata）：​提供美股全量历史交易数据查询服务，支持多种查询方式，适用于需要大量历史数据的用户。 ​gugudata.com
-  2. 阿里云行情服务：​提供全球各主要交易所的行情数据服务，包括美股历史数据，适用于企业级用户。 ​aliyun.com
-  3. [AKShare](https://akshare.akfamily.xyz/introduction.html)：​一个基于 Python 的开源金融数据接口库，提供美股历史行情数据获取功能，适合有编程能力的用户。 ​AkShare
-  此外，部分券商可能提供历史数据下载功能，建议您联系所使用的券商客服，了解其是否提供所需的历史交易数据服务。
 
 
 
@@ -74,13 +61,6 @@
 ## 入门基础
 * [从零开始学炒股](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95)
 
-# video
-* [123交易系统：一课毕业 good](https://www.youtube.com/watch?v=lS5Nb0axvWM)
-* [美股、港股、A 股实时以及历史行情数据 API 接口](https://www.youtube.com/watch?v=sSeiaMLRKIw)
-* [【富途API】 Ticker lv2 串流 美股数据 美股行情 富途牛牛 futu api TIGR AMC](https://www.youtube.com/watch?v=FnADT6YcpnI)
-* [Python 小程式連接富途牛牛(二) l 下載實時股票數據 l 不懂編程都可以 l 不用課金](https://www.youtube.com/watch?v=vwW6I-gOZEM)
-* [[程序员小飞]如何通过Python一步获取股票实时数据｜量化投资的免费数据获取](https://www.youtube.com/watch?v=zYf8LbTNjME)
-* [【Python程式交易入門】用python免費下載全球股價 | 含代碼解釋](https://www.youtube.com/watch?v=UL3XmB9LdyI)
 
 ## 理论
 * 股票大作手操盘术
@@ -109,29 +89,8 @@
 * 
 
 
-## 工具网站
-* tradingView
-  * [TradingView](https://www.tradingview.com/chart/) 
-* ChatGPT股票
-  * [【全自動化交易賺錢】Ai寫出1200%收益的交易策略只用5分鐘！不需要編程知識 ，超簡單！免費完整攻略，手把手教你做自己的交易機器人](https://www.youtube.com/watch?v=ghHl4as3vAQ)  
-* [https://stocktwits.com/](https://stocktwits.com/)---id: gzpengli psw : gz19731108
-* [工具---技术分析|不能不会的股票技术分析工具： 江恩角度线 时空尺 辅助线 ](https://www.youtube.com/watch?v=cgrN4yiJMrc&t=64s)
-* [工具---三个揭露主力买卖动向工具: 1.筹码分布图 2.AI智能盯盘 3. 订单异动监测](https://www.youtube.com/watch?v=jFuZXWksOpA&t=22s)
-* [工具---追踪多空博弈的神器,避免 ”卖出就涨，买入就跌“](https://www.youtube.com/watch?v=pNEHcZc7DxA)
-* [工具---富途moomoo---股票看盘软件](https://www.moomoo.com/download/window?_ga=2.235367681.1402051834.1641161818-495647026.1641161818&_gac=1.61387102.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
-  * [同时适用于美股、A股、港股的最简单易懂的看盘软件富途moomoo的使用方法](https://www.youtube.com/watch?v=OIK7JobFJfs&list=PLlARI-1H0jrcTGaXADyz98P01XTsCnYit&index=50)
-  * [富途moomoo看盘软件的这些好用并且功能强大的工具， 为什么一直没被发现](https://www.youtube.com/watch?v=gp1jTZQ01ao)
-  * [富途moomoo OpenAPI---股票开发API](https://www.moomoo.com/download/OpenAPI?_ga=2.134579697.1402051834.1641161818-495647026.1641161818&_gac=1.57512024.1641161878.Cj0KCQiAt8WOBhDbARIsANQLp94z8xuGd5cdAyeelIPcTZF7MUTw9MLg5a3oSlcKs5GnJyyTL9yZs8MaAsmoEALw_wcB)
 
 
-## 量化交易
-   * [python量化交易开发课程导学](https://www.youtube.com/watch?v=Iz81BH3gPtU&list=PLOxGIaTEuXIoHqGBzllOezbpE66I95hMn)
-   * [四大量化交易平台 ( muticharts, Excel VBA, python 量化交易平台,XQ 量化交易平台) 比較，程式交易策略加碼分享](https://school.gugu.fund/blog/gugu_knowledge/7807989341)
-     * MultiCharts and 
-       * [別傻了！不要看那些教你用ChatGPT無腦賺錢的方法！ 用multichats 工具炒股](https://www.youtube.com/watch?v=p6iUIPy3kXk)
-       * [第一次學Multicharts程式碼就上手－PowerLanguage語法教學](https://quantpass.org/powerlanguage-1/)
-       * [如何用Python創建一個Telegram交易訊號機器人，為你一年節省600+美金](https://www.youtube.com/watch?v=drvyh8x4egU)
-       * [通过Python连接盈透实现自动化量化交易](https://www.youtube.com/watch?v=4csl4BJCme0)
   
 ## 基本面分析类
 * [股票基本面分析清单： 精准研判股票的底部和头部](https://weread.qq.com/web/reader/4f4321e071f8f0064f45181)
