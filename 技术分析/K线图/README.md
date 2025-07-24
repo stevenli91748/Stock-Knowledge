@@ -30,6 +30,7 @@
 
 
 * 参考书
+  * [K线新生300天图解教程---300实例教程 重要](http://www.net767.com/book/duanxianshiyin/) 
   * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
   * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
   * [K线操盘术---麻道明  重要](https://weread.qq.com/web/reader/de5328a07188d4d6de53636kc81322c012c81e728d9d180)
