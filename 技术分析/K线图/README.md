@@ -43,7 +43,7 @@
   * [理解日本蜡烛图（全片）](https://www.youtube.com/watch?v=6Fgwj181uG8)
   * [K线图大解秘： 股票买入卖出实战](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434da)
   * [史上最全K线形态，5分钟教你读懂70种K线，掌握低买高卖永不踏空](https://zhuanlan.zhihu.com/p/63411722)
-
+  * [零点财经](https://www.zcaijing.com/kxiantu/)
 
 
   ---
