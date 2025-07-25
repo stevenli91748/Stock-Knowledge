@@ -196,6 +196,7 @@
       * [黄金坑](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3ef329302553ef815416990)
       * [金足底](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k93d32d9025693db85ed9e60) 
   * [4. 切线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
+    * [股市切线的种类有几种](https://www.zcaijing.com/gushililun/206663.html?_360safeparam=7755687) 
     * [轨道线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
     * [速度线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
     * [扇形线](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kaab325601eaab3238922e53)
