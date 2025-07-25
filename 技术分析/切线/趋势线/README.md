@@ -1,0 +1,3 @@
+# 快速学习
+* [趋势线系列](http://www.net767.com/Special/qushi/)
+* [10分钟学会趋势线 K线图进阶用法 美股抄底必要技能 最强买入技术指标 K线技術分析新手入門教学](https://www.youtube.com/watch?v=smpV2dS0ek4)
