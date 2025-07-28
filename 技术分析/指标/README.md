@@ -1,5 +1,5 @@
 
-    * 参考书
+   * 参考书
       * [指标分析](http://www.net767.com/gupiao/jishu/) 
       * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
       * [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/01e32fc0717d2feb01e9c8f)
