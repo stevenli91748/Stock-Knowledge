@@ -2,9 +2,9 @@
    * 参考书
       * [指标分析](http://www.net767.com/gupiao/jishu/) 
       * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
-      * [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/01e32fc0717d2feb01e9c8f)
-      * [从零开始学KDJ指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/04432ac0717d30d7044c357)
-      * [振荡指标MACD：波段操作精解（升级版）](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+      
+     
+      
 
 * [ARBR BRAR指标(判断短期买卖点)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/ARBR%20BRAR%E6%8C%87%E6%A0%87(%E5%88%A4%E6%96%AD%E7%9F%AD%E6%9C%9F%E4%B9%B0%E5%8D%96%E7%82%B9)/README.md)
 * [BIAS(BIAS乖离率指标)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/BIAS(BIAS%E4%B9%96%E7%A6%BB%E7%8E%87%E6%8C%87%E6%A0%87)/README.md)
