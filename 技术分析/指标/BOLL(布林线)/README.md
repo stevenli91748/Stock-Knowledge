@@ -1,3 +1,10 @@
+
+# 参考书
+* [布林线BOLL](https://weread.qq.com/web/reader/4a6324c0813ab7376g0166e1)
+* [从零开始学布林线指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/b44327b072037f32b44545c)
+* [布林线技术交易实战精解](https://weread.qq.com/web/reader/db532a40717d2e67db5a7ab)
+
+
 # 快速学习
 * [布林线系列](http://www.net767.com/Special/boll/)
 * [10分钟学会布林线 (BOLL) 布林带 短线技术指标 K线技術分析新手入門教学](https://www.youtube.com/watch?v=s4q9_3CY_aM&t=39s)
