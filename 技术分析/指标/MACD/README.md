@@ -1,5 +1,5 @@
 # 参考书
-* [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/01e32fc0717d2feb01e9c8f)
+* [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/ab032f4071fd965dab015f5)
 * [振荡指标MACD：波段操作精解（升级版）](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 
 # 快速学习
