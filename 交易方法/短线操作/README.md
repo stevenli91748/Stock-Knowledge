@@ -1,3 +1,6 @@
+# 参考书
+* [本书读懂T+0短线战法](https://weread.qq.com/web/reader/37332a705c558d373112958)
+* [股票操盘手之“T+0”滚动交易手册](https://weread.qq.com/web/reader/cf8327907159ac74cf821e7kc81322c012c81e728d9d180)
 * [短线技巧系列](http://www.net767.com/gupiao/duanxian/)
 *  短线选股的“三高”理论
    * [涨幅要高  ](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95kaab325601eaab3238922e53)
