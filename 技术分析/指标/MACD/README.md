@@ -1,4 +1,5 @@
 # 参考书
+* [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
 * [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/ab032f4071fd965dab015f5)
 * [振荡指标MACD：波段操作精解（升级版）](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 
