@@ -4,6 +4,7 @@
 * [短线技巧系列](http://www.net767.com/gupiao/duanxian/)
 * [短线操盘实战技法](https://weread.qq.com/web/reader/9ed3283071df673e9edf25c)
 * [短线交易获利秘诀：窥探令人窒息的自营交易，19位操盘手比别人更快的抢钱策略](https://weread.qq.com/web/reader/42f32820723f40cd42fdedd)
+* [以交易为生：20余年惊人获利，短线交易大师的内训体系](https://weread.qq.com/web/reader/39e32320813ab80a9g0141fd)
 *  短线选股的“三高”理论
    * [涨幅要高  ](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95kaab325601eaab3238922e53)
    * [主力资金参与程度要高](https://weread.qq.com/web/reader/0b8326e0717d2e8c0b8ab95kaab325601eaab3238922e53)
