@@ -1,3 +1,7 @@
+ * [从零开始学KDJ指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/04432ac0717d30d7044c357)
+ * [随机指标KDJ：波段操作精解](https://weread.qq.com/web/reader/86e32300718e765e86eb1d5kc81322c012c81e728d9d180)
+ * [从零开始学KDJ指标：短线操盘、盘口分析买卖点实战](https://weread.qq.com/web/reader/04432ac0717d30d7044c357)
+ * []()
 # 快速学习
 * [KDJ系列](http://www.net767.com/gupiao/kdj/)
 * [10分钟学会随机指标(KDJ) | 短线抄底技巧 | K线技術分析新手入門教学系列](https://www.youtube.com/watch?v=bHY9XMRKWDA)
