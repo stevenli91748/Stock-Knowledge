@@ -1,3 +1,7 @@
+# 参考书
+* [参透MACD指标：短线操盘、盘口分析与A股买卖点实战](https://weread.qq.com/web/reader/01e32fc0717d2feb01e9c8f)
+* [振荡指标MACD：波段操作精解（升级版）](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+
 # 快速学习
 * [MACD指标系列](http://www.net767.com/gupiao/macd/)
 * [6分钟学会 MACDK线图最强技术指标技術分析新手入門](https://www.youtube.com/watch?v=ozugcWisz8o)
