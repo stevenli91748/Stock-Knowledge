@@ -3,3 +3,4 @@
 * [交易操盘技法精解](https://weread.qq.com/web/reader/bf432440717d30b7bf41b87)
 * [小盘股集中投资法：从10万元到1亿元的实践圣经](https://weread.qq.com/web/reader/b74325b0813ab7b89g013897)
 * [从零开始学价值投资：财务指标、量化选股与投资策略全解析](https://weread.qq.com/web/reader/8a732210715a40f48a7c513)
+* [交易之路：如何构建属于自己的投资体系](https://weread.qq.com/web/reader/c8a32c1071ae93cac8ac336kc81322c012c81e728d9d180)
