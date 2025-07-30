@@ -5,3 +5,4 @@
 * [从零开始学价值投资：财务指标、量化选股与投资策略全解析](https://weread.qq.com/web/reader/8a732210715a40f48a7c513)
 * [交易之路：如何构建属于自己的投资体系](https://weread.qq.com/web/reader/c8a32c1071ae93cac8ac336kc81322c012c81e728d9d180)
 * [交易之道：傅海棠观点集](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
+* [从90万到4200万! 传奇交易员熬鹰，全方位拆解他的交易秘诀!](https://www.youtube.com/watch?v=CYzsunsqzDg)
