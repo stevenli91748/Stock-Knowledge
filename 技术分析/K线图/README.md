@@ -31,10 +31,11 @@
 
 * 参考书
   * [K线新生300天图解教程---300实例教程 重要](http://www.net767.com/book/duanxianshiyin/) 
-  * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
-  * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
   * [K线操盘术---麻道明  重要](https://weread.qq.com/web/reader/de5328a07188d4d6de53636kc81322c012c81e728d9d180)
   * [实战K线图从新手到高手---重要](https://weread.qq.com/web/reader/2ab3205071e429072ab8770)
+  * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
+
+  * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
   * [75种K线基本形态](https://www.aicoin.com/zh-Hans/article/293307)
   * [从零开始学K线：新手入门， 洞悉股市](https://weread.qq.com/web/reader/2a1327405933b42a14af962)
   * [日本蜡烛图技术 2020](https://weread.qq.com/web/reader/e9032c1071e8af44e90ae59)
