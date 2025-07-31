@@ -37,6 +37,16 @@
 
 ---
 
+
+* WVAD
+* TRIX
+* BIBIBOLL
+* EXPMA
+* DMA
+* ASI
+* VR
+* EMV
+
 * [BOLL(布林线)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/BOLL(%E5%B8%83%E6%9E%97%E7%BA%BF)/README.md)
 * [CCI(顺势指标)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/CCI(%E9%A1%BA%E5%8A%BF%E6%8C%87%E6%A0%87)/README.md)
 
