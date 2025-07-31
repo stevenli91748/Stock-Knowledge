@@ -35,7 +35,7 @@
   * [实战K线图从新手到高手---重要](https://weread.qq.com/web/reader/2ab3205071e429072ab8770)
   * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
   * [K线图大揭秘：股票买入与卖出实战技巧---重要 K线形态与指标结合的买卖点分析](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434dakc81322c012c81e728d9d180)
-  * [抓住K线，获利无限---重要](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc81322c012c81e728d9d180)
+  * [抓住K线，获利无限---K 线形态的重要归纳](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc81322c012c81e728d9d180)
   * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
   
 
