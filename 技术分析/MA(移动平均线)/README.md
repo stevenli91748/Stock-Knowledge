@@ -9,3 +9,21 @@
 # 快速学习
 * [均线](http://www.net767.com/gupiao/junxian/)  
 * [10分钟给学会MA移动平均线（Moving Average） SMA VS EMA vs WMA K线技術分析新手入門教学](https://www.youtube.com/watch?v=fPEGGpl9Uk4&t=89s)
+* [20年老股民独家干货：月、周、日、60分均线系统的综合运用](https://zhuanlan.zhihu.com/p/373507175)
+---
+
+
+    * 均线
+      * 均线转折
+      * 均线交叉
+        * 黄金交叉
+        * 死亡交叉 
+      * 均线缠绕
+      * 均线发散 
+      * 均线型态
+        * [银山谷、金山谷与死亡谷](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kc45328f0274c45147dee704)
+        * [乌云密布](https://weread.qq.com/web/reader/2ab3205071e429072ab8770keb132680275eb160de1d35c)
+        * [蛟龙出海与断头铡刀](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k5ef32bd02765ef0599381f7)
+        * [老鸭头](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k07e323f027707e1cd7dc674)
+        * [秒高台](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kda432420278da4fb5c6e9ad)
+        * [青龙取水](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k4c5327a02794c56ff4ce24c)
