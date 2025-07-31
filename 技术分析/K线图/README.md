@@ -50,7 +50,7 @@
 
   ---
   
-  * [不同周期( 1分钟K线图, 5分钟K线图, 15分钟K线图, 30分钟K线图, 60分钟K线图, 日K线, 周K线, 月K线, ) ](https://new.qq.com/rain/a/20210716A067RW00)
+  
   * [1. K线理论---K线理论讨论的是一根或几根K线所构成的“组合”​，缺口理论讨论的是K线与K线没有价格交集所构成的“空档”​，形态理论讨论的是一系列的K线所组成的“图形”​。从适用性上讲，K线理论大致可以预测数天的未来趋势，缺口理论根据缺口性质可以预测或短或长的趋势，形态理论则可以大致预测未来数周数月甚至更长时间的趋势。学好了这3种理论，就能长持短炒两相宜了](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
       * [1 K线力学理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA.md)
       * [2 多空搏杀理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA.md)
@@ -202,10 +202,11 @@
       * [美人肩](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kfe932230253fe9fc289c8a3)
       * [黄金坑](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k3ef329302553ef815416990)
       * [金足底](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k93d32d9025693db85ed9e60) 
-
-  * [7. K线与均线分析](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1k70e32fb021170efdf2eca12)
-    
-  * 8 K线与技术指标分析
+  
+  *  K线与均线分析
+  *  k线与分时线分析
+  *  K线与量线分析 
+  *  K线与技术指标分析
     * K线与 MACD指标分析
     * K线与 KDJ指标分析
     * K线与 BOLL线指标分析
