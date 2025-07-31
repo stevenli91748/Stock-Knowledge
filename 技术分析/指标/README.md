@@ -4,7 +4,20 @@
       * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
       
      
-      
+# 大势型指标
+  * [绝对广量ABI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E7%BB%9D%E5%AF%B9%E5%B9%BF%E9%87%8FABI/%E7%BB%9D%E5%AF%B9%E5%B9%BF%E9%87%8FABI.md)
+  * [腾落指数ADL](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E8%85%BE%E8%90%BD%E6%8C%87%E6%95%B0ADL/%E8%85%BE%E8%90%BD%E6%8C%87%E6%95%B0ADL.md)
+  * [涨跌比ADR](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E6%B6%A8%E8%B7%8C%E6%AF%94ADR/%E6%B6%A8%E8%B7%8C%E6%AF%94ADR.md)
+  * [升降股数AD](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E5%8D%87%E9%99%8D%E8%82%A1%E6%95%B0AD/%E5%8D%87%E9%99%8D%E8%82%A1%E6%95%B0AD.md)
+  * [阿姆士指标ARMS](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E9%98%BF%E5%A7%86%E5%A3%AB%E6%8C%87%E6%A0%87ARMS/%E9%98%BF%E5%A7%86%E5%A3%AB%E6%8C%87%E6%A0%87ARMS.md)
+  * [信任广度BT](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E4%BF%A1%E4%BB%BB%E5%B9%BF%E5%BA%A6BT/%E4%BF%A1%E4%BB%BB%E5%B9%BF%E5%BA%A6BT.md)
+  * [累计成交量CVI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E7%B4%AF%E8%AE%A1%E6%88%90%E4%BA%A4%E9%87%8FCVI/%E7%B4%AF%E8%AE%A1%E6%88%90%E4%BA%A4%E9%87%8FCVI.md)
+  * [麦克连指标MCL](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E9%BA%A6%E5%85%8B%E8%BF%9E%E6%8C%87%E6%A0%87MCL/%E9%BA%A6%E5%85%8B%E8%BF%9E%E6%8C%87%E6%A0%87MCL.md)
+  * [麦氏综合指标MSI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E9%BA%A6%E6%B0%8F%E7%BB%BC%E5%90%88%E6%8C%87%E6%A0%87MSi/%E9%BA%A6%E6%B0%8F%E7%BB%BC%E5%90%88%E6%8C%87%E6%A0%87MSI.md)
+  
+
+
+---
 
 * [ARBR BRAR指标(判断短期买卖点)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/ARBR%20BRAR%E6%8C%87%E6%A0%87(%E5%88%A4%E6%96%AD%E7%9F%AD%E6%9C%9F%E4%B9%B0%E5%8D%96%E7%82%B9)/README.md)
 * [BIAS(BIAS乖离率指标)](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/BIAS(BIAS%E4%B9%96%E7%A6%BB%E7%8E%87%E6%8C%87%E6%A0%87)/README.md)
