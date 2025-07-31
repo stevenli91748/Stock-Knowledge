@@ -35,6 +35,10 @@
   * [实战K线图从新手到高手---重要](https://weread.qq.com/web/reader/2ab3205071e429072ab8770)
   * [炒股要懂K线图---重要](https://weread.qq.com/web/reader/5f6326305d205c5f605e7a4)
   * [K线图大揭秘：股票买入与卖出实战技巧---重要 K线形态与指标结合的买卖点分析](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434dakc81322c012c81e728d9d180)
+  * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
+
+---
+
 
   * [从零开始学股票K线图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/6b732c507159af626b76f3akc81322c012c81e728d9d180)
   * [75种K线基本形态](https://www.aicoin.com/zh-Hans/article/293307)
@@ -206,6 +210,9 @@
   *  K线与均线分析
   *  k线与分时线分析
   *  K线与量线分析 
+  *  K线形态与技术指标分析
+     * 参考书
+       * [K线图大揭秘：股票买入与卖出实战技巧---重要 K线形态与指标结合的买卖点分析](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434dakc81322c012c81e728d9d180)  
   *  K线与技术指标分析
     * K线与 MACD指标分析
     * K线与 KDJ指标分析
