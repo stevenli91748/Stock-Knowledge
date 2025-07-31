@@ -61,6 +61,8 @@
       * [3 相对位置理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA.md)
       * [4 K线信号理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA.md)
       * [5 K线缺口理论  ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E7%BC%BA%E5%8F%A3%E7%90%86%E8%AE%BA/K%E7%BA%BF%E7%BC%BA%E5%8F%A3%E7%90%86%E8%AE%BA.md)
+      * [ K线的优点和缺点](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k65132ca01b6512bd43d90e3)
+      * [K线分析应该注意的问题](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k65132ca01b6512bd43d90e3)
   * **单根K线----单根K线看多空，两根K线看后位**
       * [史上最全的48种单K线形态讲解（珍藏版）](https://zhuanlan.zhihu.com/p/564922411)
       * [如何看懂K线图？此文教你3分钟看懂K线图，建议收藏细看](https://zhuanlan.zhihu.com/p/344186761)
