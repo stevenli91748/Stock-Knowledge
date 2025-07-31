@@ -17,7 +17,7 @@
   * [指数平滑广量STIX](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E6%8C%87%E6%95%B0%E5%B9%B3%E6%BB%91%E5%B9%BF%E9%87%8FSTIX/%E6%8C%87%E6%95%B0%E5%B9%B3%E6%BB%91%E5%B9%BF%E9%87%8FSTIX.md)
   * [新三价率TBR](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E6%96%B0%E4%B8%89%E4%BB%B7%E7%8E%87TBR/%E6%96%B0%E4%B8%89%E4%BB%B7%E7%8E%87TBR.md)
   
-
+# 超买超卖型指标
 
 ---
 
