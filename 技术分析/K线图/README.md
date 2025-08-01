@@ -37,7 +37,7 @@
   * [K线图大揭秘：股票买入与卖出实战技巧---重要 K线形态与指标结合的买卖点分析](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434dakc81322c012c81e728d9d180)
   * [抓住K线，获利无限---K 线形态的重要归纳](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc81322c012c81e728d9d180)
   * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
-  
+  * [K均交易法：股票期货只看K线均线做到稳定盈利](https://weread.qq.com/web/reader/76b32d907159f0f176b1a18)
 
 ---
 
