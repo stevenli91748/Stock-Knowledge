@@ -64,7 +64,7 @@
           今日开在平盘或盘下，表示多方今日向上企图不强。3 变盘的先期征兆，例如多头高档昨日收十字线、墓碑线、吊人线等变盘K线，今日开盘价就很重要，如果开高，便能化解疑虑；开低，多头就要小心，可能要
           变盘了。同样的，股价下跌一段，昨日出现止跌的变盘线信号，今天如果开盘向上，自然容易转折向上。变盘的先期征兆，例如多头高档昨日收十字线、墓碑线、吊人线等变盘K线，今日开盘价就很重要，
           如果开高，便能化解疑虑；开低，多头就要小心，可能要变盘了。同样的，股价下跌一段，昨日出现止跌的变盘线信号，今天如果开盘向上，自然容易转折向上。
-      * [1 K线力学理论]()
+      * [1 K线力学理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA.md)
       * [2 多空搏杀理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA.md)
       * [3 相对位置理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA.md)
       * [4 K线信号理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA.md)
