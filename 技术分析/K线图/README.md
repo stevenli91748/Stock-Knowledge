@@ -85,7 +85,8 @@
         * **½价---   指当日（最高价＋最低价）÷2的价,1.½价代表当日多空交易的平均成本。2.大量长红K线，日后回档跌破½价，表示多方气势转弱。大量长黑K线，日后反弹突破½价，表示空方力道转弱。
                      3.股价涨到高档，出现大量长红K线，如跌破长红K线的½价，高档做头的概率大增，要小心反转。4.股价跌到低档，出现大量长黑K线，如突破长黑K线的½价，低档止跌回升的概率大增，
                      要注意反弹。5.因此，走势中只要出现大量的长红K线或长黑K线，都要特别注意½价的位置，看是处于相对高档还是相对低档。**  
-      * [股票走势图是K线的延伸](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
+      * [**股票走势图是K线的延伸**](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
+      * [**K线内涵**](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
       * [1 K线力学理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA.md)
       * [2 多空搏杀理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA.md)
       * [3 相对位置理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA.md)
