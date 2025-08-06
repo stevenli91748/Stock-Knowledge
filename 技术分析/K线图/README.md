@@ -186,7 +186,8 @@
         * [上涨抵抗形](https://weread.qq.com/web/reader/2a1327405933b42a14af962k98f3284021498f137082c2e)
         * [上升三法](https://weread.qq.com/web/reader/2a1327405933b42a14af962k3c5327902153c59dc0488e1)
       * [多方受阻型  ---倒锤头线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
-        * [多头转折向下的变盘线](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
+        * [1根K线转折向下的变盘线---出现在高档，是变盘信号的回档线形](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
+          *  
         * 2根K线转折向下(第一根是长阳K线，第二根是长阴K线，2根K线构成上涨高点或头部反转向下的形态，2根K线必须是中长实体，可以有小的上下影线)
           * [高位2根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k16732dc0161679091c5aeb1)
           * [高位2根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k8f132430178f14e45fce0f7)
@@ -232,7 +233,7 @@
         * [下降三法](https://weread.qq.com/web/reader/2a1327405933b42a14af962kf4532c00231f457c545ad3c)
         * [倒三阳](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc0c320a0232c0c7c76d365a)
       * [空方受阻型  **转折形态** ---锤头线是空方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962k283328802332838023a7529)
-        * [空头转折向上的变盘线](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
+        * [1根K线转折向上的变盘线---出现在低档，是变盘信号的反弹线形](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
         * 2根K线转折向上(第一根是长阴K线，第二根是长阳K线，2根K线构成下跌低点或底部反转向上形态，2根K线必须为中长的实体，可以有小的上下影线)
            * [低位2根K线转折向上的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k8f132430178f14e45fce0f7)
            * [低位2根K线转折向上的变化组合 ](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k8f132430178f14e45fce0f7)
