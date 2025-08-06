@@ -163,6 +163,16 @@
         * 3根K线的合并方法是，取第一天的开盘价、第三天的收盘价、这三天交易的最高价，以及这三天交易的最低价，画出一根K线 
 
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
+        * 上涨中的K线组合基本形态----上涨中的K线有8种组合
+          * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
+          * [上升三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95.md)
+          * [三线反红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2.md)
+          * [內困三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2.md)
+          * [上涨红黑红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E6%B6%A8%E7%BA%A2%E9%BB%91%E7%BA%A2/%E4%B8%8A%E6%B6%A8%E7%BA%A2%E9%BB%91%E7%BA%A2.md)
+          * [连三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E8%BF%9E%E4%B8%89%E7%BA%A2/%E8%BF%9E%E4%B8%89%E7%BA%A2.md)
+          * [大敌当前基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D.md)
+          * [上缺回补基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5.md)
+ 
         * [大阳线---K线主要型态 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
         * 中阳线
         * [小阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
@@ -200,6 +210,15 @@
         * [黄昏之星---多K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k19c3222022419ca14e7eef7)
         * [横盘形](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5b325d0225a5bfc9e0772d)
       * [空方占优型---大阴线是空方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5732aa0226a5771bce9dc4)
+         * 下跌中的K线组合基本形态---下跌中的K线有7种组合
+           * [一星二阴基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4.md)
+           * [下降三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95.md)
+           * [三线反黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91.md)
+           * [内困三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91.md)
+           * [下跌黑红黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E8%B7%8C%E9%BB%91%E7%BA%A2%E9%BB%91/%E4%B8%8B%E8%B7%8C%E9%BB%91%E7%BA%A2%E9%BB%91.md)
+           * [连三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E8%BF%9E%E4%B8%89%E9%BB%91/%E8%BF%9E%E4%B8%89%E9%BB%91.md)
+           * [下缺回补基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E7%BC%BA%E5%9B%9E%E8%A1%A5/%E4%B8%8B%E7%BC%BA%E5%9B%9E%E8%A1%A5.md) 
+ 
         * [大阴线---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd67323c0227d67d8ab4fb04)
         * [小阴线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd6432e00228d645920e3401)
         * [跌停一字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k34132fc02293416a75f431d)
