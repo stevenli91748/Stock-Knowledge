@@ -264,6 +264,7 @@
     * [持续缺口](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k9a132c802349a1158154a83)
     * [竭尽缺口](https://weread.qq.com/web/reader/2ab3205071e429072ab8770kd8232f00235d82c8d161fb2)
   * [3. 形态理论---·技术图形分析开始更多地建立在K线的基础之上，发展成为当代的形态理论，长期以来总结的各种经典图形已广泛地为人所接受，主要用于确认趋势的转变，以供投资者进行中长线的交易决策 ,形态理论则可以大致预测未来数周数月甚至更长时间的趋势](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc9f326d018c9f0f895fb5e4)
+    * [技术形态一览表](https://weread.qq.com/web/reader/2a1327405933b42a14af962k861322a025a8613985ec87a)
     * [形态汇总](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc20321001cc20ad4d76f5ae)
     * 3.1 反转形态
       * [看涨形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81.md)
