@@ -281,7 +281,7 @@
     * K线与 KDJ指标分析
     * K线与 BOLL线指标分析
     * K线与 RSI指标分析
-  * 9 [从K线看主力操作](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k9fc324302859fc3d71522e0)
+  * 9 [从K线看主力操作](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E4%BB%8EK%E7%BA%BF%E7%9C%8B%E4%B8%BB%E5%8A%9B%E6%93%8D%E4%BD%9C/%E4%BB%8EK%E7%BA%BF%E7%9C%8B%E4%B8%BB%E5%8A%9B%E6%93%8D%E4%BD%9C.md)
   * 10 识破K线陷阱
     * 识破单根K线陷阱
       * 阳线假突破陷阱
