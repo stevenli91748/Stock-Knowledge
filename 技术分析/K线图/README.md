@@ -272,13 +272,11 @@
     * [3.2 整理形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%AD%E7%BB%A7%E5%BD%A2%E6%80%81/%E4%B8%AD%E7%BB%A7%E5%BD%A2%E6%80%81.md)
     * [3.3 特殊形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E7%89%B9%E6%AE%8A%E5%BD%A2%E6%80%81/%E7%89%B9%E6%AE%8A%E5%BD%A2%E6%80%81.md)
   
-  *  K线与均线分析
-  *  k线与分时线分析
-  *  K线与量线分析 
-  *  K线形态与技术指标分析
-     * 参考书
-       * [K线图大揭秘：股票买入与卖出实战技巧---重要 K线形态与指标结合的买卖点分析](https://weread.qq.com/web/reader/f4a322905dfba1f4a2434dakc81322c012c81e728d9d180)  
-  *  K线与技术指标分析
+  *  [K线与均线分析](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E4%B8%8E%E5%9D%87%E7%BA%BF%E5%88%86%E6%9E%90/K%E7%BA%BF%E4%B8%8E%E5%9D%87%E7%BA%BF%E5%88%86%E6%9E%90.md)
+  *  [k线与分时线分析](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/k%E7%BA%BF%E4%B8%8E%E5%88%86%E6%97%B6%E7%BA%BF%E5%88%86%E6%9E%90/k%E7%BA%BF%E4%B8%8E%E5%88%86%E6%97%B6%E7%BA%BF%E5%88%86%E6%9E%90.md)
+  *  [K线与成交量分析 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E4%B8%8E%E6%88%90%E4%BA%A4%E9%87%8F%E5%88%86%E6%9E%90/K%E7%BA%BF%E4%B8%8E%E6%88%90%E4%BA%A4%E9%87%8F%E5%88%86%E6%9E%90.md)
+  *  [K线形态与技术指标分析](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E5%BD%A2%E6%80%81%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%BD%A2%E6%80%81%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.md)
+  * [K线与技术指标分析](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/K%E7%BA%BF%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.md)
     * K线与 MACD指标分析
     * K线与 KDJ指标分析
     * K线与 BOLL线指标分析
