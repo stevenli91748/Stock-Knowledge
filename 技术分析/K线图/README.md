@@ -155,7 +155,7 @@
         * 上影线长的阴线十字星
         * 下影线长的阴线十字星
 
-  * **k线组合---双k线 或 多k线**
+  * **k线组合---双k线 或 三K线 或 K线集群形态**
     * K线组合类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型,每一个类型的K线都有一个最基本的词根，这个词根与其他K线组合时，会使整个组合带上词根的基本含义，使我们一看就知道组合的含义,单K线形态和双K线形态虽然对市场行情的判断有一定的作用，但其预判能力较为片面，特别是单根K线很多时候的判断都不是准确的。而多根K线的组合所形成的一些特征形态，其研究价值就更高了，它们对市场的预测和买卖点的提示可靠性都要高很多. **连续3根K线，在上涨高档出现转下跌，或在下跌低档出现转上涨的组合，是改变方向的明显信号。3根K线是确认转折所需的最少K线根数，有时会超过3根以上的K线**
       * [2根K线的合并应用](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02ke4d32d5015e4da3b7fbb1fa)
         * 2根K线的合并方法，取第一天开盘价、第二天收盘价、这两天交易的最高价和最低价，用这4个元素画出一根K线 
@@ -163,7 +163,12 @@
         * 3根K线的合并方法是，取第一天的开盘价、第三天的收盘价、这三天交易的最高价，以及这三天交易的最低价，画出一根K线 
 
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
-        * 上涨中的K线组合基本形态----上涨中的K线有8种组合
+        * 多方占优型的K线组合基本形态----上涨中的K线有8种组合
+          * 多方占优型的1根k线形态
+          * 多方占优型的2根k线形态
+          * 多方占优型的3根k线形态
+          * 多方占优型的多根k线集群形态
+          
           * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
           * [上升三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95.md)
           * [三线反红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2.md)
@@ -194,7 +199,8 @@
         * 3根K线转折向下
           * [高位3根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
           * [高位3根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
-
+        * 多K线转折向下集群形态
+        
         * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
         * [倒T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1ff325f02181ff1de7742fc)
         * [剑刺长空](https://weread.qq.com/web/reader/2a1327405933b42a14af962k8e232ec02198e296a067180)
@@ -212,6 +218,9 @@
         * [横盘形](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5b325d0225a5bfc9e0772d)
       * [空方占优型---大阴线是空方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5732aa0226a5771bce9dc4)
          * 下跌中的K线组合基本形态---下跌中的K线有7种组合
+
+
+
            * [一星二阴基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4.md)
            * [下降三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95.md)
            * [三线反黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91.md)
