@@ -218,9 +218,6 @@
         * [横盘形](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5b325d0225a5bfc9e0772d)
       * [空方占优型---大阴线是空方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka5732aa0226a5771bce9dc4)
          * 下跌中的K线组合基本形态---下跌中的K线有7种组合
-
-
-
            * [一星二阴基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4.md)
            * [下降三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95.md)
            * [三线反黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91.md)
