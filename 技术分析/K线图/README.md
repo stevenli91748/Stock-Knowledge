@@ -199,7 +199,7 @@
         * 3根K线转折向下
           * [高位3根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
           * [高位3根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
-        * [多K线转折向下集群形态---头部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81.md)
+        * [[多K线转折向下集群形态---头部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81.md)
         
         * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
         * [倒T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1ff325f02181ff1de7742fc)
@@ -246,7 +246,8 @@
         * 3根K线转折向上
            * [低位3根K线转折向上的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
            * [低位3根K线转折向上的变化组合 ](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
- 
+        * [多K线转折向上集群形态---底部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81.md)
+
         * [锤头线---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k9a132c802349a1158154a83)
         * [T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd8232f00235d82c8d161fb2)
         * [剑插大地](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka6832360236a684eceeee20)
