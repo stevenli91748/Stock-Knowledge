@@ -138,7 +138,7 @@
         * [上影线长于下影线的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
         * [下影线长于上影线的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8A%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
         * [下影线长于上影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8A%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
-      * **星型K线---实体幅度小于1%**
+      * **星型K线---实体幅度小于1%,单日反转形态**
         * [锤子线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k636320102206364d3f0ffdc)
         * [墓碑线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k182326e0221182be0c5ca23)
  
