@@ -125,12 +125,12 @@
         * [大实体阴线---实体幅度大于7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
         * [大实体阳线---实体幅度大于7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
       * **光秃型K线**
-        * [光头光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k1ff325f02181ff1de7742fc)
-        * [光脚阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k4e73277021a4e732ced3b55)
-        * [光头阳线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k02e32f0021b02e74f10ece8)
-        * [光头光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k33e3289021c33e75ff09694)
-        * [光脚阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k6ea321b021d6ea9ab1ba605)
-        * [光头阴线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k341323f021e34173cb3824c)
+        * [光头光脚阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+        * [光脚阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+        * [光头阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF.md)
+        * [光头光脚阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
+        * [光脚阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
+        * [光头阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
       * **长影型K线---影线代表转折信号，上影线越短，说明上方阻力越小，后市上涨的可能性越大，而上影线越长，说明上方阻力越大，上涨难度也较大。向一个方向的影线越长，越不利于股价向这个方向变动，即上影线越长，越不利于股价上涨，下影线越长，越不利于股价下跌。以上影线为例，在经过一段时间多空斗争之后，多头终于晚节不保败下阵来，一朝被蛇咬，十年怕井绳，不论K线是阴还是阳，上影线部分已构成下一阶段的上档阻力，股价向下调整的概率居大。同理可得下影线预示着股价向上攻击的概率居大**
         * 上下影线等长的阴线 
         * 上下影线等长的阳线
