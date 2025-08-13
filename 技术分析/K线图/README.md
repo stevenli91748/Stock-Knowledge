@@ -105,6 +105,7 @@
       * [**股票走势图是K线的延伸---高档还是低档**](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
       * [**K线内涵**](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
       * [1 K线力学理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA/K%E7%BA%BF%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA.md)
+        * [双日K线组合形态力度强弱分析](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k6ea321b021d6ea9ab1ba605) 
       * [2 多空搏杀理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA/%E5%A4%9A%E7%A9%BA%E6%90%8F%E6%9D%80%E7%90%86%E8%AE%BA.md)
       * [3 相对位置理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E4%BD%8D%E7%BD%AE%E7%90%86%E8%AE%BA.md)
       * [4 K线信号理论](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA/K%E7%BA%BF%E4%BF%A1%E5%8F%B7%E7%90%86%E8%AE%BA.md)
