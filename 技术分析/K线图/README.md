@@ -132,15 +132,16 @@
         * [光脚阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
         * [光头阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
       * **长影型K线---影线代表转折信号，上影线越短，说明上方阻力越小，后市上涨的可能性越大，而上影线越长，说明上方阻力越大，上涨难度也较大。向一个方向的影线越长，越不利于股价向这个方向变动，即上影线越长，越不利于股价上涨，下影线越长，越不利于股价下跌。以上影线为例，在经过一段时间多空斗争之后，多头终于晚节不保败下阵来，一朝被蛇咬，十年怕井绳，不论K线是阴还是阳，上影线部分已构成下一阶段的上档阻力，股价向下调整的概率居大。同理可得下影线预示着股价向上攻击的概率居大**
-        * 上下影线等长的阴线 
-        * 上下影线等长的阳线
-        * [上影线长于下影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
-        * 上影线长于下影线的阴线
-        * 下影线长于上影线的阴线
-        * 下影线长于上影线的阳线
+        * [上下影线等长的阴线 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
+        * [上下影线等长的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
+        * [上影线长于下影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
+        * [上影线长于下影线的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
+        * [下影线长于上影线的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8A%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
+        * [下影线长于上影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E4%B8%8A%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
+      * **星型K线---实体幅度小于1%**
         * [锤子线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k636320102206364d3f0ffdc)
         * [墓碑线](https://weread.qq.com/web/reader/2ab3205071e429072ab8770k182326e0221182be0c5ca23)
-      * **星型K线---实体幅度小于1%**
+ 
         * [十字星](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ka1d32a6022aa1d0c6e83eb4)
           * 上下影线等长的阳线十字星
           * 上影线长的阳线十字星
