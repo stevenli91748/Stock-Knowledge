@@ -118,6 +118,9 @@
       * [如何看懂K线图？此文教你3分钟看懂K线图，建议收藏细看](https://zhuanlan.zhihu.com/p/344186761)
       * [干货：K线经典图解之形态全集，千万不容错过！（收藏版）](https://zhuanlan.zhihu.com/p/513823013)
       * [K线怎么看？股市老手直言，看K线不需看红绿，关键看这“四要素”](https://zhuanlan.zhihu.com/p/60549729)
+      * [K线的48个种类](https://weread.qq.com/web/reader/c36325e07249f5bbc36bc3fkd9d320f022ed9d4f495e456)
+        * 24种不同的阳线
+        * 24种不同的阴线
       * **实体大小不同的K线----实体大小代表内在动力，实体越大，上涨或下跌的趋势越是明显，反之趋势则不明显。以阳线为例，其实体就是收盘高于开盘的那部分，阳线实体越大说明了上涨的动力越足，就如质量越大与速度越快的物体，其惯性冲力也越大的物理学原理，阳线实体越大代表其内在上涨动力也越大，其上涨的动力将大于实体小的阳线。同理可得阴线实体越大，下跌动力也越足**
         * [小实体阳线---实体幅度在1~3%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%B0%8F%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
         * [中等实体阳线---实体幅度在3~7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
