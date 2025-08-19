@@ -209,14 +209,32 @@
             * 下影线长的大阴线十字星 
         * [一字阴线](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k17e328b022b17e62166fad4)
           * [光头光脚阴线十字星 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E4%B8%80%E5%AD%97%E9%98%B4%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光头光脚小阴线十字星
+            * 光头光脚中阴线十字星
+            * 光头光脚大阴线十字星 
         * [一字阳线](https://weread.qq.com/web/reader/de5328a07188d4d6de53636kf7132c6022cf7177163c01c)
           * [光头光脚阳线十字星 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E4%B8%80%E5%AD%97%E9%98%B3%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光头光脚小阳线十字星
+            * 光头光脚中阳线十字星
+            * 光头光脚大阳线十字星 
         * [T字线](https://weread.qq.com/web/reader/de5328a07188d4d6de53636kd9d320f022ed9d4f495e456)
           * [光头阳线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/T%E5%AD%97%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光头小阳线十字星
+            * 光头中阳线十字星
+            * 光头大阳线十字星 
           * [光头阴线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/T%E5%AD%97%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光头小阴线十字星
+            * 光头中阴线十字星
+            * 光头大阴线十字星 
         * [⊥字线](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k6c8328f022d6c8349cc72d5)
           * [光脚阳线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E2%8A%A5%E5%AD%97%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光脚小阳线十字星
+            * 光脚中阳线十字星
+            * 光脚大阳线十字星 
           * [光脚阴线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E2%8A%A5%E5%AD%97%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
+            * 光脚小阴线十字星
+            * 光脚中阴线十字星
+            * 光脚大阴线十字星 
 
   * **k线组合---双k线 或 三K线 或 K线集群形态**
     * K线组合类型---可以分为5类，包括多方占优型、多方受阻型、多空平衡型、空方占优型和空方受阻型,每一个类型的K线都有一个最基本的词根，这个词根与其他K线组合时，会使整个组合带上词根的基本含义，使我们一看就知道组合的含义,单K线形态和双K线形态虽然对市场行情的判断有一定的作用，但其预判能力较为片面，特别是单根K线很多时候的判断都不是准确的。而多根K线的组合所形成的一些特征形态，其研究价值就更高了，它们对市场的预测和买卖点的提示可靠性都要高很多. **连续3根K线，在上涨高档出现转下跌，或在下跌低档出现转上涨的组合，是改变方向的明显信号。3根K线是确认转折所需的最少K线根数，有时会超过3根以上的K线**
