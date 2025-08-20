@@ -154,6 +154,8 @@
           * 光头中阴线
           * 光头大阴线 
       * **长影型K线---影线代表转折信号，上影线越短，说明上方阻力越小，后市上涨的可能性越大，而上影线越长，说明上方阻力越大，上涨难度也较大。向一个方向的影线越长，越不利于股价向这个方向变动，即上影线越长，越不利于股价上涨，下影线越长，越不利于股价下跌。以上影线为例，在经过一段时间多空斗争之后，多头终于晚节不保败下阵来，一朝被蛇咬，十年怕井绳，不论K线是阴还是阳，上影线部分已构成下一阶段的上档阻力，股价向下调整的概率居大。同理可得下影线预示着股价向上攻击的概率居大**
+        * [影线长于实体的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E5%AE%9E%E4%BD%93%E7%9A%84%E9%98%B3%E7%BA%BF.md)
+        * [实体长于影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%AE%9E%E4%BD%93%E9%95%BF%E4%BA%8E%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
         * [上下影线等长的阳线---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
           * 上下影线等长的小阳线
           * 上下影线等长的中阳线
@@ -166,6 +168,8 @@
           * 下影线长于上影线的小阳线
           * 下影线长于上影线的中阳线
           * 下影线长于上影线的大阳线 
+        * [影线长于实体的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E5%AE%9E%E4%BD%93%E7%9A%84%E9%98%B4%E7%BA%BF.md)
+        * [实体长于影线的阴线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%AE%9E%E4%BD%93%E9%95%BF%E4%BA%8E%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
         * [上下影线等长的阴线---持续信号 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B4%E7%BA%BF.md)
           * 上下影线等长的小阴线
           * 上下影线等长的中阴线
