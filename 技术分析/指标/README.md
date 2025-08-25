@@ -3,6 +3,8 @@
       * [指标分析](http://www.net767.com/gupiao/jishu/) 
       * [股市技术指标买卖形态图谱大全](https://weread.qq.com/web/reader/79632e005b1c587964c5a68)
       * [股票技术分析大全(超值白金版)](https://weread.qq.com/web/reader/19c325c05c7b7719c7e4ed1kc81322c012c81e728d9d180)
+      * 麻道明----真假信号  股市十大技术指标实战经典和常见虚假信号.pdf
+      * 麻道明----共振信号  技术指标实战经典组合.pdf   （各种指标组合的实战教程）
      
 # 大势型指标
   * [绝对广量ABI](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/%E6%8C%87%E6%A0%87/%E7%BB%9D%E5%AF%B9%E5%B9%BF%E9%87%8FABI/%E7%BB%9D%E5%AF%B9%E5%B9%BF%E9%87%8FABI.md)
