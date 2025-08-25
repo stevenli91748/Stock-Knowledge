@@ -5,3 +5,4 @@
    * [分时涨停战法99例](https://weread.qq.com/web/reader/6ca32db0813ab6cf9g017aec)
    * [从零开始学股票分时图：炒股入门与实战技巧（图解强化版）](https://weread.qq.com/web/reader/91c324507159b1e291c18cb)
    * [分时图典型形态查询手册](https://weread.qq.com/web/reader/29d32fd0718f6e5229d9c99)
+   * 麻道明---涨停盘口 深度解密涨停分时盘口的运行规律.pdf
