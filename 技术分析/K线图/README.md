@@ -131,29 +131,47 @@
         * [大实体阴线---实体幅度大于7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
       * **光秃型K线**
         * [光头光脚阳线---强势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
-          * 光头光脚小阳线
-          * 光头光脚中阳线
-          * 光头光脚大阳线 
-        * [光脚阳线---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
-          * 光脚小阳线
-          * 光脚中阳线
-          * 光脚大阳线 
-        * [光头阳线---看涨信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF.md)
-          * 光头小阳线
-          * 光头中阳线
-          * 光头大阳线
+          * 低价区域的光头光脚大阳线
+          * 上涨途中的光头光脚大阳线
+          * 下跌途中的光头光脚大阳线
+          * 高价区域的光头光脚大阳线
+          * 阻力位之下的光头光脚大阳线
+          * 支撑位之上的光头光脚大阳线
+        * [光脚阳线（带上影线阳线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+          * 低价区域的带上影线阳线
+          * 上涨途中的带上影线阳线
+          * 下跌途中的带上影线阳线
+          * 高价区域的带上影线阳线
+          * 阻力位之下的带上影线阳线
+          * 支撑位之上的带上影线阳线
+        * [光头阳线(带下影线阳线)---看涨信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF.md)
+          * 低价区域的带下影线阳线
+          * 上涨途中的带下影线阳线
+          * 下跌途中的带下影线阳线
+          * 高价区域的带下影线阳线
+          * 阻力位之下的带下影线阳线
+          * 支撑位之上的带下影线阳线
         * [光头光脚阴线---弱势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
-          * 光头光脚小阴线
-          * 光头光脚中阴线
-          * 光头光脚大阴线 
-        * [光脚阴线---看跌信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
-          * 光脚小阴线
-          * 光脚中阴线
-          * 光脚大阴线 
-        * [光头阴线---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
-          * 光头小阴线
-          * 光头中阴线
-          * 光头大阴线 
+          * 低价区域的光头光脚大阴线
+          * 上涨途中的光头光脚大阴线
+          * 下跌途中的光头光脚大阴线
+          * 高价区域的光头光脚大阴线
+          * 阻力位之下的光头光脚大阴线
+          * 支撑位之上的光头光脚大阴线
+        * [光脚阴线（带上影线阴线）---看跌信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
+          * 低价区域的带上影线阴线
+          * 上涨途中的带上影线阴线
+          * 下跌途中的带上影线阴线
+          * 高价区域的带上影线阴线
+          * 阻力位之下的带上影线阴线
+          * 支撑位之上的带上影线阴线
+        * [光头阴线（带下影线阴线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
+          * 低价区域的带下影线阴线
+          * 上涨途中的带下影线阴线
+          * 下跌途中的带下影线阴线
+          * 高价区域的带下影线阴线
+          * 阻力位之下的带下影线阴线
+          * 支撑位之上的带下影线阴线
       * **长影型K线---影线代表转折信号，上影线越短，说明上方阻力越小，后市上涨的可能性越大，而上影线越长，说明上方阻力越大，上涨难度也较大。向一个方向的影线越长，越不利于股价向这个方向变动，即上影线越长，越不利于股价上涨，下影线越长，越不利于股价下跌。以上影线为例，在经过一段时间多空斗争之后，多头终于晚节不保败下阵来，一朝被蛇咬，十年怕井绳，不论K线是阴还是阳，上影线部分已构成下一阶段的上档阻力，股价向下调整的概率居大。同理可得下影线预示着股价向上攻击的概率居大**
         * [影线长于实体的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%BD%B1%E7%BA%BF%E9%95%BF%E4%BA%8E%E5%AE%9E%E4%BD%93%E7%9A%84%E9%98%B3%E7%BA%BF.md)
         * [实体长于影线的阳线](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E9%95%BF%E5%BD%B1%E5%9E%8BK%E7%BA%BF/%E5%AE%9E%E4%BD%93%E9%95%BF%E4%BA%8E%E5%BD%B1%E7%BA%BF%E7%9A%84%E9%98%B3%E7%BA%BF.md)
