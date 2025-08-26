@@ -249,29 +249,47 @@
  
         * [十字星---端点位置的变盘信号](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ka1d32a6022aa1d0c6e83eb4)
           * [上下影线等长的阳线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 上下影线等长的小阳线十字星
-            * 上下影线等长的中阳线十字星
-            * 上下影线等长的大阳线十字星 
+            * 低价区域的上下影线等长的阳线十字星
+            * 上涨途中的上下影线等长的阳线十字星
+            * 下跌途中的上下影线等长的阳线十字星
+            * 高价区域的上下影线等长的阳线十字星
+            * 阻力位之下的上下影线等长的阳线十字星
+            * 支撑位之上的上下影线等长的阳线十字星
           * [下影线长的阳线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E7%9A%84%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 下影线长的小阳线十字星
-            * 下影线长的中阳线十字星
-            * 下影线长的大阳线十字星 
+            * 低价区域的下影线长的阳线十字星
+            * 上涨途中的下影线长的阳线十字星
+            * 下跌途中的下影线长的阳线十字星
+            * 高价区域的下影线长的阳线十字星
+            * 阻力位之下的下影线长的阳线十字星
+            * 支撑位之上的下影线长的阳线十字星
           * [上影线长的阳线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E7%9A%84%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 上影线长的小阳线十字星
-            * 上影线长的中阳线十字星
-            * 上影线长的大阳线十字星 
+            * 低价区域的上影线长的阳线十字星
+            * 上涨途中的上影线长的阳线十字星
+            * 下跌途中的上影线长的阳线十字星
+            * 高价区域的上影线长的阳线十字星
+            * 阻力位之下的上影线长的阳线十字星
+            * 支撑位之上的上影线长的阳线十字星
           * [上下影线等长的阴线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8A%E4%B8%8B%E5%BD%B1%E7%BA%BF%E7%AD%89%E9%95%BF%E7%9A%84%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 上下影线等长的小阴线十字星
-            * 上下影线等长的中阴线十字星
-            * 上下影线等长的大阴线十字星 
+            * 低价区域的上下影线等长的阴线十字星
+            * 上涨途中的上下影线等长的阴线十字星
+            * 下跌途中的上下影线等长的阴线十字星
+            * 高价区域的上下影线等长的阴线十字星
+            * 阻力位之下的上下影线等长的阴线十字星
+            * 支撑位之上的上下影线等长的阴线十字星
           * [上影线长的阴线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8A%E5%BD%B1%E7%BA%BF%E9%95%BF%E7%9A%84%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 上影线长的小阴线十字星
-            * 上影线长的中阴线十字星
-            * 上影线长的大阴线十字星 
+            * 低价区域的上影线长的阴线十字星
+            * 上涨途中的上影线长的阴线十字星
+            * 下跌途中的上影线长的阴线十字星
+            * 高价区域的上影线长的阴线十字星
+            * 阻力位之下的上影线长的阴线十字星
+            * 支撑位之上的上影线长的阴线十字星
           * [下影线长的阴线十字星](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E5%8D%81%E5%AD%97%E6%98%9F/%E4%B8%8B%E5%BD%B1%E7%BA%BF%E9%95%BF%E7%9A%84%E9%98%B4%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
-            * 下影线长的小阴线十字星
-            * 下影线长的中阴线十字星
-            * 下影线长的大阴线十字星 
+            * 低价区域的下影线长的阴线十字星
+            * 上涨途中的下影线长的阴线十字星
+            * 下跌途中的下影线长的阴线十字星
+            * 高价区域的下影线长的阴线十字星
+            * 阻力位之下的下影线长的阴线十字星
+            * 支撑位之上的下影线长的阴线十字星
           * [一字阳线](https://weread.qq.com/web/reader/de5328a07188d4d6de53636kf7132c6022cf7177163c01c)
             * [光头光脚阳线十字星 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E6%98%9F%E5%9E%8BK%E7%BA%BF/%E4%B8%80%E5%AD%97%E9%98%B3%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF%E5%8D%81%E5%AD%97%E6%98%9F.md)
               * 低价区域的一字阳线
