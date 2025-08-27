@@ -125,7 +125,7 @@
         * 24种不同的阴线
       * **实体大小不同的K线----就单根K线而言，通常上影线和阴线实体表示股价具有下压力量，上影线和阴线实体越长，说明股价下跌的动能越大，下影线和阳线实体表示股价上升力量，下影线和阳线实体越长，说明股价上升的动能越强**
         * [小实体阳线---实体幅度在1~3% 表示趋势开始](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%B0%8F%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
-        * [中等实体阳线---实体幅度在3~7%  表示趋势已经形成，宜顺势操作](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
+        * [中等实体阳线---表示趋势已经形成，宜顺势操作，中红K线可以合并观察，例如连续2天或3天的中红上涨，出现大量，可视为长红K线爆大量](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
         * [大实体阳线---实体幅度大于7%  ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
         * [小实体阴线---实体幅度在1~3%  ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%B0%8F%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
         * [中等实体阴线---实体幅度在3~7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
@@ -485,7 +485,8 @@
     * K线与 BOLL线指标分析
     * K线与 RSI指标分析
   * 9 [从K线看主力操作](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E4%BB%8EK%E7%BA%BF%E7%9C%8B%E4%B8%BB%E5%8A%9B%E6%93%8D%E4%BD%9C/%E4%BB%8EK%E7%BA%BF%E7%9C%8B%E4%B8%BB%E5%8A%9B%E6%93%8D%E4%BD%9C.md)
-  * 10 识破K线陷阱
+  * 10 [K线突破](https://github.com/stevenli91748/Stock-Knowledge/tree/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%AA%81%E7%A0%B4)
+  * 11 识破K线陷阱
     * 识破单根K线陷阱
       * 阳线假突破陷阱
       * 阴线假突破陷阱
