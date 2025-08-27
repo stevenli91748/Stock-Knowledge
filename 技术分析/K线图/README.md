@@ -393,7 +393,7 @@
             * 上涨趋势的末期出现双K线平头形态
             * 上涨趋势的末期出现多K线平头形态 
 
----
+
 
         * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
         * [倒T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1ff325f02181ff1de7742fc)
@@ -419,7 +419,7 @@
              * [内困三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91.md)
              * [下跌黑红黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E8%B7%8C%E9%BB%91%E7%BA%A2%E9%BB%91/%E4%B8%8B%E8%B7%8C%E9%BB%91%E7%BA%A2%E9%BB%91.md)
              * [连三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E8%BF%9E%E4%B8%89%E9%BB%91/%E8%BF%9E%E4%B8%89%E9%BB%91.md)
-            * 4 空方占优型的多根k线集群形态
+           * 4 空方占优型的多根k线集群形态
              * [下降三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95/%E4%B8%8B%E9%99%8D%E4%B8%89%E6%B3%95.md)
              * [三线反黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91/%E4%B8%89%E7%BA%BF%E5%8F%8D%E9%BB%91.md)
              * [下缺回补基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8B%E7%BC%BA%E5%9B%9E%E8%A1%A5/%E4%B8%8B%E7%BC%BA%E5%9B%9E%E8%A1%A5.md) 
