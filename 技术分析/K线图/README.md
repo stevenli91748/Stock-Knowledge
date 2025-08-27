@@ -384,16 +384,17 @@
             * [孤岛夜星](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
             * [母子变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
             * [双星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
-        * 多根K线转折向下
-            * [双鸦变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
-            * [群星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
         * [[多K线转折向下集群形态---头部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81/%E5%A4%B4%E9%83%A8%E5%BD%A2%E6%80%81.md)
+          * [双鸦变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
+          * [群星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
           * [上涨收敛形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k182326e0221182be0c5ca23)
           * [上涨扩张形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ke3632bd0222e369853df322)
           * [上涨趋势的末期出现平头形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ke3632bd0222e369853df322)
             * 上涨趋势的末期出现双K线平头形态
             * 上涨趋势的末期出现多K线平头形态 
-        
+
+---
+
         * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
         * [倒T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1ff325f02181ff1de7742fc)
         * [剑刺长空](https://weread.qq.com/web/reader/2a1327405933b42a14af962k8e232ec02198e296a067180)
