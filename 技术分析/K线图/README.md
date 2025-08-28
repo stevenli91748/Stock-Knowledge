@@ -131,22 +131,25 @@
         * [中等实体阴线---.中黑K线可以合并观察，例如连续2天或3天的中黑下跌，出现大量，可以视为长黑K线爆大量下跌,；如果出现在头部或空头关键下跌位置，自然可以做空，但是如果出现在低档，日后股价不跌或上涨，就要注意是否要打底](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
         * [大实体阴线---实体幅度大于7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
       * **光秃型K线**
-        * [光头光脚阳线---强势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+        * [光头光脚阳线---强势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
           * 低价区域的光头光脚大阳线
           * 上涨途中的光头光脚大阳线
           * 下跌途中的光头光脚大阳线
           * 高价区域的光头光脚大阳线
           * 阻力位之下的光头光脚大阳线
           * 支撑位之上的光头光脚大阳线
-        * [光脚阳线（带上影线阳线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
-          * 倒锤子线形态---光脚小阳线
-          * 低价区域的带上影线阳线
-          * 上涨途中的带上影线阳线
-          * 下跌途中的带上影线阳线
-          * 高价区域的带上影线阳线
-          * 阻力位之下的带上影线阳线
-          * 支撑位之上的带上影线阳线
-        * [光头阳线(带下影线阳线)---看涨信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF.md)
+        * [光脚阳线（带上影线阳线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+          * 光脚阳线的种类
+            * [光脚小阳线----倒锤子线形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k16732dc0161679091c5aeb1)
+            * [光脚大阳线---执带线形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc9f326d018c9f0f895fb5e4)
+          * 光脚阳线的位置
+            * 低价区域的带上影线阳线
+            * 上涨途中的带上影线阳线
+            * 下跌途中的带上影线阳线
+            * 高价区域的带上影线阳线
+            * 阻力位之下的带上影线阳线
+            * 支撑位之上的带上影线阳线
+        * [光头阳线(带下影线阳线)---看涨信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B3%E7%BA%BF.md)
           * 光头阳线的种类
             * [光头小阳线---锤子线形态 （反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k8f132430178f14e45fce0f7)
           * 光头阳线的位置
@@ -156,14 +159,14 @@
             * 高价区域的带下影线阳线
             * 阻力位之下的带下影线阳线
             * 支撑位之上的带下影线阳线
-        * [光头光脚阴线---弱势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
+        * [光头光脚阴线---弱势信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF/%E5%85%89%E5%A4%B4%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
           * 低价区域的光头光脚大阴线
           * 上涨途中的光头光脚大阴线
           * 下跌途中的光头光脚大阴线
           * 高价区域的光头光脚大阴线
           * 阻力位之下的光头光脚大阴线
           * 支撑位之上的光头光脚大阴线
-        * [光脚阴线（带上影线阴线）---看跌信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
+        * [光脚阴线（带上影线阴线）---看跌信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
           * 光脚阴线的种类
             * [光脚小阴线---倒锤子线形态 （反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k16732dc0161679091c5aeb1)
             * 
@@ -174,7 +177,7 @@
             * 高价区域的带上影线阴线
             * 阻力位之下的带上影线阴线
             * 支撑位之上的带上影线阴线
-        * [光头阴线（带下影线阴线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
+        * [光头阴线（带下影线阴线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
           * 光头阴线的种类
             * [光头小阴线---锤子线形态 （反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k8f132430178f14e45fce0f7)
           * 光头阴线的位置
