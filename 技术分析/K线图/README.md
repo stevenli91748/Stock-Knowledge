@@ -139,6 +139,7 @@
           * 阻力位之下的光头光脚大阳线
           * 支撑位之上的光头光脚大阳线
         * [光脚阳线（带上影线阳线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B3%E7%BA%BF.md)
+          * 倒锤子线形态---光脚小阳线
           * 低价区域的带上影线阳线
           * 上涨途中的带上影线阳线
           * 下跌途中的带上影线阳线
@@ -160,12 +161,16 @@
           * 阻力位之下的光头光脚大阴线
           * 支撑位之上的光头光脚大阴线
         * [光脚阴线（带上影线阴线）---看跌信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E8%84%9A%E9%98%B4%E7%BA%BF.md)
-          * 低价区域的带上影线阴线
-          * 上涨途中的带上影线阴线
-          * 下跌途中的带上影线阴线
-          * 高价区域的带上影线阴线
-          * 阻力位之下的带上影线阴线
-          * 支撑位之上的带上影线阴线
+          * 光脚阴线的种类
+            * 光脚小阴线---倒锤子线形态
+            * 
+          * 光脚阴线的位置
+            * 低价区域的带上影线阴线
+            * 上涨途中的带上影线阴线
+            * 下跌途中的带上影线阴线
+            * 高价区域的带上影线阴线
+            * 阻力位之下的带上影线阴线
+            * 支撑位之上的带上影线阴线
         * [光头阴线（带下影线阴线）---持续信号](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%85%89%E7%A7%83%E5%9E%8BK%E7%BA%BF/%E5%85%89%E5%A4%B4%E9%98%B4%E7%BA%BF.md)
           * 低价区域的带下影线阴线
           * 上涨途中的带下影线阴线
@@ -344,6 +349,7 @@
         * 多方占优型的K线组合基本形态----上涨中的K线有8种组合
           * 1 多方占优型的1根k线形态
           * 2 多方占优型的2根k线形态
+            *  
           * 3 多方占优型的3根k线形态
             * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
             * [內困三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2.md)
