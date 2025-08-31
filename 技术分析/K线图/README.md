@@ -357,8 +357,19 @@
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * 多方占优型的K线组合基本形态----上涨中的K线有8种组合
           * 1 多方占优型的1根k线形态
-          * 2 多方占优型的2根k线形态
             *  
+          * 2 多方占优型的2根k线形态
+            * [分手线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd67323c0227d67d8ab4fb04)
+            * [待入线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd6432e00228d645920e3401)
+            * [切入线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k34132fc02293416a75f431d)
+            * [插入线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ka1d32a6022aa1d0c6e83eb4)
+            * [向上跳空并列阴阳线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k17e328b022b17e62166fad4)
+            * [并列阳线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kf7132c6022cf7177163c01c)
+            * [并列阴线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6c8328f022d6c8349cc72d5)
+            * [向上跳空三法形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd9d320f022ed9d4f495e456)
+            * [战后休整形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k67c32d7022f67c6a1e7ce82)
+            * []()
+            * []()
           * 3 多方占优型的3根k线形态
             * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
             * [內困三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2.md)
@@ -367,6 +378,8 @@
             * [大敌当前基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D.md)
           * 4 多方占优型的多根k线集群形态
             * [上升三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95.md)
+            * [铺垫形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kf4532c00231f457c545ad3c)
+            * [三线直击（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc0c320a0232c0c7c76d365a)
             * [三线反红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2.md)
             * [上缺回补基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5.md)
  
