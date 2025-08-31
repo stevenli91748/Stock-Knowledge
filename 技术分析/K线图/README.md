@@ -126,7 +126,7 @@
       * **实体大小不同的K线----就单根K线而言，通常上影线和阴线实体表示股价具有下压力量，上影线和阴线实体越长，说明股价下跌的动能越大，下影线和阳线实体表示股价上升力量，下影线和阳线实体越长，说明股价上升的动能越强**
         * [小实体阳线---实体幅度在1~3% 表示趋势开始](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%B0%8F%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
         * [中等实体阳线---表示趋势已经形成，宜顺势操作，中红K线可以合并观察，例如连续2天或3天的中红上涨，出现大量，可视为长红K线爆大量,](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
-        * [大实体阳线---实体幅度大于7%  ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
+        * [大实体阳线---大阳线的具体含义还要结合“形态、组合、位置、时间、成交量”5大要素来分析。我们称这5大要素为大阳线的K线语法 ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B3%E7%BA%BF.md)
         * [小实体阴线---实体幅度在1~3%  ](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%B0%8F%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
         * [中等实体阴线---.中黑K线可以合并观察，例如连续2天或3天的中黑下跌，出现大量，可以视为长黑K线爆大量下跌,；如果出现在头部或空头关键下跌位置，自然可以做空，但是如果出现在低档，日后股价不跌或上涨，就要注意是否要打底](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E4%B8%AD%E7%AD%89%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF%E5%92%8C%E9%98%B3%E7%BA%BF.md)
         * [大实体阴线---实体幅度大于7%](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/K%E7%BA%BF%E7%90%86%E8%AE%BA/%E5%8D%95%E6%A0%B9K%E7%BA%BF/%E5%AE%9E%E4%BD%93%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E7%9A%84K%E7%BA%BF/%E5%A4%A7%E5%AE%9E%E4%BD%93%E9%98%B4%E7%BA%BF.md)
@@ -357,7 +357,8 @@
       * [多方占优型---大阳线是多方占优型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd3d322001ad3d9446802347)
         * 多方占优型的K线组合基本形态----上涨中的K线有8种组合
           * 1 多方占优型的1根k线形态
-            *  
+            * []()
+            * []() 
           * 2 多方占优型的2根k线形态
             * [分手线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd67323c0227d67d8ab4fb04)
             * [待入线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd6432e00228d645920e3401)
@@ -368,8 +369,6 @@
             * [并列阴线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6c8328f022d6c8349cc72d5)
             * [向上跳空三法形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd9d320f022ed9d4f495e456)
             * [战后休整形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k67c32d7022f67c6a1e7ce82)
-            * []()
-            * []()
           * 3 多方占优型的3根k线形态
             * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
             * [內困三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2.md)
