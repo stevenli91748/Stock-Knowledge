@@ -392,7 +392,6 @@
         * [小阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
         * [涨停一字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc51323901dc51ce410c121b)
         * [好友反攻](https://weread.qq.com/web/reader/2a1327405933b42a14af962kaab325601eaab3238922e53)
-        * [曙光初现---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k9bf32f301f9bf31c7ff0a60)
         * [旭日东升----K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7432af0210c74d97b01b1c)
         * [阳吞阴---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k70e32fb021170efdf2eca12)
         * [多方炮](https://weread.qq.com/web/reader/2a1327405933b42a14af962k6f4322302126f4922f45dec)
@@ -401,10 +400,10 @@
         * [上升三法](https://weread.qq.com/web/reader/2a1327405933b42a14af962k3c5327902153c59dc0488e1)
       * [多方受阻型  ---倒锤头线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
         * [1根K线转折向下的变盘线---出现在高档，是变盘信号的回档线形](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
-          * [上吊线形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k283328802332838023a7529)
+          * [上吊线形态（反转，看跌） 不分阴阳 卖出信号](https://weread.qq.com/web/reader/6193267071ccfa916191f81k283328802332838023a7529)
           * [执带线形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k9a132c802349a1158154a83)
-          * []()
-          * []() 
+          * 流星线（顶部反转，看跌）不分阴阳，卖出信号---
+          * 
         * 2根K线转折向下(第一根是长阳K线，第二根是长阴K线，2根K线构成上涨高点或头部反转向下的形态，2根K线必须是中长实体，可以有小的上下影线)
           * [高位2根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k8f132430178f14e45fce0f7)
             * [高位2根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k16732dc0161679091c5aeb1)
@@ -492,9 +491,9 @@
 
            * 2 空方占优型的2根k线形态
              * [分手线形态（持续，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k68d3221025468d30a95982e)
-             * [待入线形态（持续，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k3ef329302553ef815416990)
-             * [切入线形态（持续，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k93d32d9025693db85ed9e60)
-             * [插入线形态（持续，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc7e326d0257c7e1249ff682)
+             * [待入线形态（持续，看跌） 高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81k3ef329302553ef815416990)
+             * [切入线形态（持续，看跌）高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81k93d32d9025693db85ed9e60)
+             * [插入线形态（持续，看跌）高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc7e326d0257c7e1249ff682)
            * 3 空方占优型的3根k线形态
              * [一星二阴基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4.md)
              * [内困三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91.md)
@@ -528,9 +527,9 @@
           * [三线直击形态（持续，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kf4b32ef025ef4b9ec30acd6)
       * [空方受阻型  **转折形态** ---锤头线是空方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962k283328802332838023a7529)
         * [1根K线转折向上的变盘线---出现在低档，是变盘信号的反弹线形](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
-          * [倒锤子线形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k16732dc0161679091c5aeb1)
-          * [锤子线形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k8f132430178f14e45fce0f7)
-          * [执带线形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc9f326d018c9f0f895fb5e4)
+          * [倒锤子线形态（底部反转，看涨 ）不分阴阳 ](https://weread.qq.com/web/reader/6193267071ccfa916191f81k16732dc0161679091c5aeb1)
+          * [锤子线形态（底部反转，看涨）不分阴阳](https://weread.qq.com/web/reader/6193267071ccfa916191f81k8f132430178f14e45fce0f7)
+          * [执带线形态（底部反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc9f326d018c9f0f895fb5e4)
           * []()
           * []()
         * 2根K线转折向上(第一根是长阴K线，第二根是长阳K线，2根K线构成下跌低点或底部反转向上形态，2根K线必须为中长的实体，可以有小的上下影线)
@@ -552,9 +551,9 @@
             * [相同低价形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc7432af0210c74d97b01b1c)
             * [反冲形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k70e32fb021170efdf2eca12)
             * [白色一兵形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6f4322302126f4922f45dec)
-            * []()
-            * []()
-            * []()
+            * [曙光初现---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k9bf32f301f9bf31c7ff0a60)
+            * 
+
         * 3根K线转折向上
            * [低位3根K线转折向上的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
              * [低位3根K线转折向上的变化组合 ](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
@@ -576,10 +575,6 @@
              * [南方三星形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc1632f5021fc16a5320f3dc)
              * [竖状三明治形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k636320102206364d3f0ffdc)
              * [挤压报警形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k182326e0221182be0c5ca23)
-             * []()
-             * []()
-             * []()
-             * []()
 
        * [多K线转折向上集群形态---底部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81.md)
           * [双星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
