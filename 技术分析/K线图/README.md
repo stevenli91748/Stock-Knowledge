@@ -374,6 +374,7 @@
             * [并列阴线形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6c8328f022d6c8349cc72d5)
             * [向上跳空三法形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kd9d320f022ed9d4f495e456)
             * [战后休整形态（持续，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k67c32d7022f67c6a1e7ce82)
+            * 看涨接吻线（持续，看涨）
           * 3 多方占优型的3根k线形态
             * [一星二阳基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B3.md)
             * [內困三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2/%E5%85%A7%E5%9B%B0%E4%B8%89%E7%BA%A2.md)
@@ -387,17 +388,6 @@
             * [三线反红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2/%E4%B8%89%E7%BA%BF%E5%8F%8D%E7%BA%A2.md)
             * [上缺回补基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5/%E4%B8%8A%E7%BC%BA%E5%9B%9E%E8%A1%A5.md)
  
-        * [大阳线---K线主要型态 ](https://weread.qq.com/web/reader/2a1327405933b42a14af962k65132ca01b6512bd43d90e3)
-        * 中阳线
-        * [小阳线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc20321001cc20ad4d76f5ae)
-        * [涨停一字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc51323901dc51ce410c121b)
-        * [好友反攻](https://weread.qq.com/web/reader/2a1327405933b42a14af962kaab325601eaab3238922e53)
-        * [旭日东升----K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kc7432af0210c74d97b01b1c)
-        * [阳吞阴---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k70e32fb021170efdf2eca12)
-        * [多方炮](https://weread.qq.com/web/reader/2a1327405933b42a14af962k6f4322302126f4922f45dec)
-        * [红三兵---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1f032c402131f0e3dad99f3)
-        * [上涨抵抗形](https://weread.qq.com/web/reader/2a1327405933b42a14af962k98f3284021498f137082c2e)
-        * [上升三法](https://weread.qq.com/web/reader/2a1327405933b42a14af962k3c5327902153c59dc0488e1)
       * [多方受阻型  ---倒锤头线是多方受阻型K线组合的基本词根](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb6d32b90216b6d767d2f0dc)
         * [1根K线转折向下的变盘线---出现在高档，是变盘信号的回档线形](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02)
           * [上吊线形态（反转，看跌） 不分阴阳 卖出信号](https://weread.qq.com/web/reader/6193267071ccfa916191f81k283328802332838023a7529)
@@ -423,7 +413,15 @@
             * [相同高价形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k7f33291023d7f39f8317e0b)
             * [反冲形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k44f328c023e44f683a8420b)
             * [一只黑乌鸦形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k03a32a4023f03afdbd66a39)
-
+            * [上涨趋势的末期出现平头形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ke3632bd0222e369853df322)
+              * 上涨趋势的末期出现双K线平头形态（见顶反转信号，若出现在上涨趋势的中部，则没有意义）
+              * 上涨趋势的末期出现多K线平头形态 
+            * 倾盘大雨（顶部反转）
+            * 阴包容线（顶部反转）
+            * 孕育阴线（顶部反转）
+            * 分手线（顶部反转 看跌）
+            * 镊子顶（顶部反转 看跌）
+            * 涨势尽头线（顶部反转 看跌）
         * 3根K线转折向下
           * [高位3根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
             * [高位3根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)  
@@ -451,9 +449,10 @@
           * [上涨收敛形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636k182326e0221182be0c5ca23)
           * [上涨扩张形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ke3632bd0222e369853df322)
           * [上涨趋势的末期出现平头形态---看跌](https://weread.qq.com/web/reader/de5328a07188d4d6de53636ke3632bd0222e369853df322)
-            * 上涨趋势的末期出现双K线平头形态
+            * 上涨趋势的末期出现双K线平头形态（见顶反转信号，若出现在上涨趋势的中部，则没有意义）
             * 上涨趋势的末期出现多K线平头形态 
-
+          * 下降三法
+          * 两阴夹一阳
 
 
         * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
@@ -494,6 +493,8 @@
              * [待入线形态（持续，看跌） 高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81k3ef329302553ef815416990)
              * [切入线形态（持续，看跌）高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81k93d32d9025693db85ed9e60)
              * [插入线形态（持续，看跌）高位看跌，低位看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc7e326d0257c7e1249ff682)
+             * 接吻线（看跌接吻线）
+             * 
            * 3 空方占优型的3根k线形态
              * [一星二阴基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4/%E4%B8%80%E6%98%9F%E4%BA%8C%E9%98%B4.md)
              * [内困三黑基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8B%E8%B7%8C%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91/%E5%86%85%E5%9B%B0%E4%B8%89%E9%BB%91.md)
@@ -508,7 +509,7 @@
         * [小阴线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd6432e00228d645920e3401)
         * [跌停一字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k34132fc02293416a75f431d)
         * [淡友反攻](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka1d32a6022aa1d0c6e83eb4)
-        * [乌云盖顶---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k17e328b022b17e62166fad4)
+        
         * [倾盆大雨---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962kf7132c6022cf7177163c01c)
         * [阴吞阳---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k6c8328f022d6c8349cc72d5) 
         * [空方炮](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd9d320f022ed9d4f495e456)
@@ -552,7 +553,10 @@
             * [反冲形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k70e32fb021170efdf2eca12)
             * [白色一兵形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6f4322302126f4922f45dec)
             * [曙光初现---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k9bf32f301f9bf31c7ff0a60)
-            * 
+            * 下降趋势的末期出现平底形态（反转，看涨）
+            * 分手线（底部反转 看涨）
+            * 镊子底（底部反转 看涨）
+            * 跌势尽头线（底部反转 看涨）
 
         * 3根K线转折向上
            * [低位3根K线转折向上的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
@@ -575,7 +579,7 @@
              * [南方三星形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc1632f5021fc16a5320f3dc)
              * [竖状三明治形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k636320102206364d3f0ffdc)
              * [挤压报警形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k182326e0221182be0c5ca23)
-
+             * 红三兵
        * [多K线转折向上集群形态---底部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81.md)
           * [双星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
           * [双肩变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
@@ -586,7 +590,7 @@
             * 下跌趋势的末期出现双K线平底形态
             * 下跌趋势的末期出现多K线平底形态 
 
-        * [T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962kd8232f00235d82c8d161fb2)
+        
         * [剑插大地](https://weread.qq.com/web/reader/2a1327405933b42a14af962ka6832360236a684eceeee20)
         * [空方尽头](https://weread.qq.com/web/reader/2a1327405933b42a14af962kb5332110237b53b3a3d68d2)
         * [阴孕阳---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k9f6326602389f61408e3715)
@@ -598,8 +602,8 @@
         * [梯形底部形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k19c3222022419ca14e7eef7)
         * [触底后向上跳空形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ka5b325d0225a5bfc9e0772d)
         * [三次向下跳空形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ka5732aa0226a5771bce9dc4)
-        * []()
-        * []()
+        * 上升三法
+        * 两阳夹一阴
 # [不同周期K线组合](https://weread.qq.com/web/reader/c0e329a05994b5c0ececf4ek3c5327902153c59dc0488e1)
   **需要说明的是，时间越短的K线，对股价的波动越敏感。因为敏感，所以对趋势反映就会“失真”​。因此，判断股价趋势需要结合日K线、周K线、月K线综合研判，在实战中，投资者在做技术分析的时候，有一个很关键的技巧，是要看多个周期的K线。通常来讲，如果投资者只看日K线图，是有很大的片面性的。原因在于日K线图的最高价、开盘价、收盘价、最低价这四个价格很容易被主力做出来。比如，主力要让一个股票上涨但是却是收阴线，那么他就在集合竞价的时候把开盘价打高，收盘时候再用大单打压，但是打到昨天的收盘价以上，股票仍然是涨的，但在日K线上却是一根阴线。实践证明，识别主力骗线有效方法之一是看不同周期的K线。一般情况下，如果投资者将1分钟K线、5分钟K线、15分钟K线、30分钟K线、60分钟K线以及日K线、周K线、月K线、年K线结合起来研究一只股票，那么所得到的研判结果的准确性就会增加。举例来讲，如有一只股票在上述的几种K线形态中，多数都呈现一种放量突破的走势，那么这就往往形成一种“共振”效应，上涨的动能会很足，无论做短线还是中线，这样的股票都是最佳选择。**
   
