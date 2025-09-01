@@ -509,7 +509,14 @@
              * [深思形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k02e32f0021b02e74f10ece8)
              * [两只兔子形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k33e3289021c33e75ff09694)  
              * [三内升形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k6ea321b021d6ea9ab1ba605)
-             
+             * [三外升形态（反转，看涨](https://weread.qq.com/web/reader/6193267071ccfa916191f81k341323f021e34173cb3824c)
+             * [南方三星形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81kc1632f5021fc16a5320f3dc)
+             * [竖状三明治形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k636320102206364d3f0ffdc)
+             * [挤压报警形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k182326e0221182be0c5ca23)
+             * []()
+             * []()
+             * []()
+             * []()
 
        * [多K线转折向上集群形态---底部形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81/%E5%BA%95%E9%83%A8%E5%BD%A2%E6%80%81.md)
           * [双星变盘](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02kc9f326d018c9f0f895fb5e4)
@@ -529,7 +536,13 @@
         * [钳子底](https://weread.qq.com/web/reader/2a1327405933b42a14af962k72b327f023972b32a1f7e2d)
         * [塔形底](https://weread.qq.com/web/reader/2a1327405933b42a14af962k66f3299023a66f041e16858) 
         * [低档五连阳](https://weread.qq.com/web/reader/2a1327405933b42a14af962k09332a2023b093f65e0888c)
-
+        * [脱离形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ke3632bd0222e369853df322)
+        * [藏婴吞没形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k1c3321802231c383cd30bb3)
+        * [梯形底部形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k19c3222022419ca14e7eef7)
+        * [触底后向上跳空形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ka5b325d0225a5bfc9e0772d)
+        * [三次向下跳空形态（反转，看涨）](https://weread.qq.com/web/reader/6193267071ccfa916191f81ka5732aa0226a5771bce9dc4)
+        * []()
+        * []()
 # [不同周期K线组合](https://weread.qq.com/web/reader/c0e329a05994b5c0ececf4ek3c5327902153c59dc0488e1)
   **需要说明的是，时间越短的K线，对股价的波动越敏感。因为敏感，所以对趋势反映就会“失真”​。因此，判断股价趋势需要结合日K线、周K线、月K线综合研判，在实战中，投资者在做技术分析的时候，有一个很关键的技巧，是要看多个周期的K线。通常来讲，如果投资者只看日K线图，是有很大的片面性的。原因在于日K线图的最高价、开盘价、收盘价、最低价这四个价格很容易被主力做出来。比如，主力要让一个股票上涨但是却是收阴线，那么他就在集合竞价的时候把开盘价打高，收盘时候再用大单打压，但是打到昨天的收盘价以上，股票仍然是涨的，但在日K线上却是一根阴线。实践证明，识别主力骗线有效方法之一是看不同周期的K线。一般情况下，如果投资者将1分钟K线、5分钟K线、15分钟K线、30分钟K线、60分钟K线以及日K线、周K线、月K线、年K线结合起来研究一只股票，那么所得到的研判结果的准确性就会增加。举例来讲，如有一只股票在上述的几种K线形态中，多数都呈现一种放量突破的走势，那么这就往往形成一种“共振”效应，上涨的动能会很足，无论做短线还是中线，这样的股票都是最佳选择。**
   
