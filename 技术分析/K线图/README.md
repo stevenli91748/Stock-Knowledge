@@ -381,8 +381,8 @@
             * [上涨红黑红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E6%B6%A8%E7%BA%A2%E9%BB%91%E7%BA%A2/%E4%B8%8A%E6%B6%A8%E7%BA%A2%E9%BB%91%E7%BA%A2.md)
             * [连三红基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E8%BF%9E%E4%B8%89%E7%BA%A2/%E8%BF%9E%E4%B8%89%E7%BA%A2.md)
             * [大敌当前基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D/%E5%A4%A7%E6%95%8C%E5%BD%93%E5%89%8D.md)
-           * 两阳夹一阴（上涨持续形态）
-           * 看涨并列线（上涨持续形态）
+            * 两阳夹一阴（上涨持续形态）
+            * 看涨并列线（上涨持续形态）
  
           * 4 多方占优型的多根k线集群形态
             * [上升三法基本形态](https://github.com/stevenli91748/Stock-Knowledge/blob/master/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/K%E7%BA%BF%E5%9B%BE/%E5%9E%8B%E6%80%81/%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%9A%84K%E7%BA%BF%E7%BB%84%E5%90%88/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95/%E4%B8%8A%E5%8D%87%E4%B8%89%E6%B3%95.md)
@@ -397,7 +397,6 @@
           * [上吊线形态（反转，看跌） 不分阴阳 卖出信号](https://weread.qq.com/web/reader/6193267071ccfa916191f81k283328802332838023a7529)
           * [执带线形态（反转，看跌）](https://weread.qq.com/web/reader/6193267071ccfa916191f81k9a132c802349a1158154a83)
           * 流星线（顶部反转，看跌）不分阴阳，卖出信号---
-          * 
         * 2根K线转折向下(第一根是长阳K线，第二根是长阴K线，2根K线构成上涨高点或头部反转向下的形态，2根K线必须是中长实体，可以有小的上下影线)
           * [高位2根K线转折向下的变化组合](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k8f132430178f14e45fce0f7)
             * [高位2根K线转折向下的基本形态](https://weread.qq.com/web/reader/39e32730813ab77b3g013a02k16732dc0161679091c5aeb1)
@@ -456,8 +455,7 @@
             * 上涨趋势的末期出现双K线平头形态（见顶反转信号，若出现在上涨趋势的中部，则没有意义）
             * 上涨趋势的末期出现多K线平头形态 
 
-        * [倒锤头---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k37632cd021737693cfc7149)
-        * [倒T字线](https://weread.qq.com/web/reader/2a1327405933b42a14af962k1ff325f02181ff1de7742fc)
+
         * [剑刺长空](https://weread.qq.com/web/reader/2a1327405933b42a14af962k8e232ec02198e296a067180)
         * [多方尽头](https://weread.qq.com/web/reader/2a1327405933b42a14af962k4e73277021a4e732ced3b55)
         * [阳孕阴---K线主要型态](https://weread.qq.com/web/reader/2a1327405933b42a14af962k02e32f0021b02e74f10ece8)
