@@ -28,6 +28,7 @@
 
 
 # 股票学习网站
+  * [Amy说美股@致富学院](https://www.youtube.com/@%E8%87%B4%E5%AF%8C%E5%AD%A6%E9%99%A2Amy%E8%AF%B4%E7%BE%8E%E8%82%A1/videos) 
   * [股票学习](http://www.net767.com/)
   * [零点财经股票学堂](https://www.zcaijing.com/)
 十大股票论坛排名不分先后
