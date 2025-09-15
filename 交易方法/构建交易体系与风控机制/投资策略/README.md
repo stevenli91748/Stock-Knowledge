@@ -7,5 +7,5 @@
 * [交易之道：傅海棠观点集](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
 * [从90万到4200万! 传奇交易员熬鹰，全方位拆解他的交易秘诀!](https://www.youtube.com/watch?v=CYzsunsqzDg)
 * [复利常胜之道：五步建立股票投资交易系统](https://weread.qq.com/web/reader/d26328e0726e3a75d26337f)
-* []()
+* [实现财务自由:交易系统](https://weread.qq.com/web/reader/0d732130726164210d77fa8k37632cd021737693cfc7149)
 * []()
