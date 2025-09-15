@@ -6,3 +6,6 @@
 * [交易之路：如何构建属于自己的投资体系](https://weread.qq.com/web/reader/c8a32c1071ae93cac8ac336kc81322c012c81e728d9d180)
 * [交易之道：傅海棠观点集](https://weread.qq.com/web/reader/22c329607249f60b22c90a3)
 * [从90万到4200万! 传奇交易员熬鹰，全方位拆解他的交易秘诀!](https://www.youtube.com/watch?v=CYzsunsqzDg)
+* [复利常胜之道：五步建立股票投资交易系统](https://weread.qq.com/web/reader/d26328e0726e3a75d26337f)
+* []()
+* []()
