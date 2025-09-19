@@ -9,3 +9,5 @@
 * [复利常胜之道：五步建立股票投资交易系统](https://weread.qq.com/web/reader/d26328e0726e3a75d26337f)
 * [实现财务自由:交易系统](https://weread.qq.com/web/reader/0d732130726164210d77fa8k37632cd021737693cfc7149)
 * []()
+
+# [交易系统](https://weread.qq.com/web/reader/0d732130726164210d77fa8k37632cd021737693cfc7149)
